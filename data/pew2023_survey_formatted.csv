@@ -1,0 +1,17 @@
+question_id,question,Very confident,Somewhat confident,Only a little confident,Not at all confident,No answer,Need help,Able to set up on my own,Overwhelmed,Not overwhelmed,Does not use internet,Very worried,Somewhat worried,Not too worried,Not at all worried,Not too confident,Always or almost always,Often,Sometimes,Rarely,Never,Extremely effective,Very effective,Somewhat effective,Not too effective,Not at all effective,Just something I have to get past,A meaningful part of my decision,Very concerned,Somewhat concerned,Not too concerned,Not at all concerned,A great deal of control,Some control,Very little control,No control,A great deal,Some,Very little,Nothing,More regulation than now,Less regulation than now,About the same amount as now
+DIGCONF,"Overall, how confident do you feel using computers, smartphones, or other electronic devices to do the things you need to do online?",53.0,36.0,9.0,2.0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TECHHELP,"When I get a new computer, smartphone, or other electronic device, I usually…",,,,,1,22.0,77.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PRIVFEEL,"When you think about managing your privacy online, do you feel…",,,,,1,,,37.0,59.0,3.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PRIVWRY_a,How worried are you about people stealing your identity or personal information?,,,,,0,,,,,,38.0,46.0,14.0,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PRIVWRY_b,How worried are you about companies selling your information to others without you knowing?,,,,,0,,,,,,42.0,42.0,14.0,2.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CYBCONF,How confident are you in knowing what steps to take if your personal information is hacked or stolen online?,11.0,42.0,,10.0,0,,,,,,,,,,34.0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PPREAD,"How often do you click 'agree' right away, without reading what these policies say?",,,,,0,,,,,,,,,,,31.0,26.0,22.0,12.0,6.0,,,,,,,,,,,,,,,,,,,,,,
+PPEFF,How effective do you think privacy policies are as a way for companies to communicate how they are using people’s data?,,,,,1,,,,,,,,,,,,,,,,2.0,6.0,27.0,36.0,25.0,,,,,,,,,,,,,,,,,
+PPUSE,Privacy policies are…,,,,,1,,,,,,,,,,,,,,,,,,,,,69.0,27.0,,,,,,,,,,,,,,,
+CONCERNCO,How concerned are you about how companies are using the data they collect about you?,,,,,0,,,,,,,,,,,,,,,,,,,,,,,35.0,46.0,16.0,3.0,,,,,,,,,,,
+CONTROLCO,How much control do you think you have over the data that companies collect about you?,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,21.0,51.0,23.0,,,,,,,
+UNDERSTANDCO,How much do you feel you understand what companies are doing with the data they collect about you?,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0,26.0,49.0,18.0,,,
+CONCERNGOV,How concerned are you about how the government is using the data it collects about you?,,,,,0,,,,,,,,,,,,,,,,,,,,,,,31.0,39.0,24.0,5.0,,,,,,,,,,,
+CONTROLGOV,How much control do you think you have over the data the government collects about you?,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,6.0,14.0,43.0,36.0,,,,,,,
+UNDERSTANDGOV,How much do you feel you understand what the government is doing with the data it collects about you?,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.0,17.0,50.0,27.0,,,
+GOVREGV1,How much government regulation do you think there should be of what companies can do with their customers’ personal information?,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,72.0,7.0,18.0

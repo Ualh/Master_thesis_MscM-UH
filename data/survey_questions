@@ -1,0 +1,27 @@
+quest_id	question_descr
+1	How much do you trust current centralized systems (where companies store and manage your data) to protect your health information?
+2	How much control do you feel you have over your data? 
+3	How much control do you feel users should have over their own health data?
+4	How concerned are you about health data privacy?
+5	Do you or did you use connected health devices (e.g., smartwatch, garmin device, apple device, … fitness app tracker, smart scale, sport wrist band, strava, …)?
+6	"(non-users only) Why don’t you use connected devices? 
+7	What brand / app / ... do you use ?
+8	(users only) How do you balance health benefits against privacy concerns when using these devices?
+9	(users only) How often do you use your device(s)? 
+10	(users only) Have you read your device’s privacy policy? 
+11	Prior to this survey, were you aware of these decentralized data management approaches?
+12	If these systems allowed you to control who accesses your health data and how it's used, would you be interested in using them? 
+13	How much trust do you have in systems based on new technologies (like blockchain) to protect your data? 
+14	"What would most concern you about adopting these new data management approaches? 
+15	How willing would you be to invest extra time or pay an additional fee to use a decentralized data management solution (such as a blockchain-based system or personal data vault) that gives you full control over your wearable health data?
+16	Should users own their wearable data?
+17	Are you willing to share data for health insights?
+18	"(If No) Why not? 
+19	Who do you believe should be primarily responsible for ensuring health data is used ethically? 
+20	Do you think those new methods to manage personal data will become mainstream in 5–10 years?
+21	Do you have any other thoughts on data privacy or decentralized solutions?
+22	Age group
+23	Education level
+24	Occupation
+25	country
+26	email for sending the summary

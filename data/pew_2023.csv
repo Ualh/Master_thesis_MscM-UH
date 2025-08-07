@@ -1,0 +1,386 @@
+QuestionID,Question,Response,AggregatedPercent
+DIGCONF,"Overall, how confident do you feel using computers, smartphones, or other electronic devices to do the things you need to do online?",Very confident,56.0
+DIGCONF,"Overall, how confident do you feel using computers, smartphones, or other electronic devices to do the things you need to do online?",Somewhat confident,33.3
+DIGCONF,"Overall, how confident do you feel using computers, smartphones, or other electronic devices to do the things you need to do online?",Only a little confident,7.7
+DIGCONF,"Overall, how confident do you feel using computers, smartphones, or other electronic devices to do the things you need to do online?",Not at all confident,2.3
+DIGCONF,"Overall, how confident do you feel using computers, smartphones, or other electronic devices to do the things you need to do online?",No answer,*
+TECHHELP,"When I get a new computer, smartphone, or other electronic device, I usually...",Need someone else to set it up or show me how to use it,24.0
+TECHHELP,"When I get a new computer, smartphone, or other electronic device, I usually...",Am able to set it up and learn how to use it on my own,75.0
+TECHHELP,"When I get a new computer, smartphone, or other electronic device, I usually...",No answer,*
+PRIVFEEL,"When you think about managing your privacy online, do you feel… a. Overwhelmed by figuring out what you need to do",Yes,37
+PRIVFEEL,"When you think about managing your privacy online, do you feel… a. Overwhelmed by figuring out what you need to do",No,59
+PRIVFEEL,"When you think about managing your privacy online, do you feel… a. Overwhelmed by figuring out what you need to do",No answer,1
+PRIVFEEL,"When you think about managing your privacy online, do you feel… a. Overwhelmed by figuring out what you need to do",Does not use internet,3
+PRIVFEEL,"When you think about managing your privacy online, do you feel… b. Skeptical that anything you do will make much difference",Yes,61
+PRIVFEEL,"When you think about managing your privacy online, do you feel… b. Skeptical that anything you do will make much difference",No,35
+PRIVFEEL,"When you think about managing your privacy online, do you feel… b. Skeptical that anything you do will make much difference",No answer,1
+PRIVFEEL,"When you think about managing your privacy online, do you feel… b. Skeptical that anything you do will make much difference",Does not use internet,3
+PRIVFEEL,"When you think about managing your privacy online, do you feel… c. Confident those who have access to your personal information will do what is right",Yes,21
+PRIVFEEL,"When you think about managing your privacy online, do you feel… c. Confident those who have access to your personal information will do what is right",No,76
+PRIVFEEL,"When you think about managing your privacy online, do you feel… c. Confident those who have access to your personal information will do what is right",No answer,1
+PRIVFEEL,"When you think about managing your privacy online, do you feel… c. Confident those who have access to your personal information will do what is right",Does not use internet,3
+PRIVFEEL,"When you think about managing your privacy online, do you feel… d. You trust yourself to make the right decisions about your personal information",Yes,78
+PRIVFEEL,"When you think about managing your privacy online, do you feel… d. You trust yourself to make the right decisions about your personal information",No,19
+PRIVFEEL,"When you think about managing your privacy online, do you feel… d. You trust yourself to make the right decisions about your personal information",No answer,0
+PRIVFEEL,"When you think about managing your privacy online, do you feel… d. You trust yourself to make the right decisions about your personal information",Does not use internet,3
+PRIVFEEL,"When you think about managing your privacy online, do you feel… e. Like privacy is not that big of a deal to you",Yes,29
+PRIVFEEL,"When you think about managing your privacy online, do you feel… e. Like privacy is not that big of a deal to you",No,67
+PRIVFEEL,"When you think about managing your privacy online, do you feel… e. Like privacy is not that big of a deal to you",No answer,1
+PRIVFEEL,"When you think about managing your privacy online, do you feel… e. Like privacy is not that big of a deal to you",Does not use internet,3
+PRIVWRY,"How worried are you about… a. People stealing your identity or personal information",Very worried,38
+PRIVWRY,"How worried are you about… a. People stealing your identity or personal information",Somewhat worried,46
+PRIVWRY,"How worried are you about… a. People stealing your identity or personal information",Not too worried,14
+PRIVWRY,"How worried are you about… a. People stealing your identity or personal information",Not at all worried,2
+PRIVWRY,"How worried are you about… a. People stealing your identity or personal information",No answer,*
+PRIVWRY,"How worried are you about… b. Companies selling your information to others without you knowing",Very worried,42
+PRIVWRY,"How worried are you about… b. Companies selling your information to others without you knowing",Somewhat worried,42
+PRIVWRY,"How worried are you about… b. Companies selling your information to others without you knowing",Not too worried,14
+PRIVWRY,"How worried are you about… b. Companies selling your information to others without you knowing",Not at all worried,2
+PRIVWRY,"How worried are you about… b. Companies selling your information to others without you knowing",No answer,*
+PRIVWRY,"How worried are you about… c. Law enforcement monitoring what you do online",Very worried,15
+PRIVWRY,"How worried are you about… c. Law enforcement monitoring what you do online",Somewhat worried,24
+PRIVWRY,"How worried are you about… c. Law enforcement monitoring what you do online",Not too worried,39
+PRIVWRY,"How worried are you about… c. Law enforcement monitoring what you do online",Not at all worried,21
+PRIVWRY,"How worried are you about… c. Law enforcement monitoring what you do online",No answer,*
+PRIVWRY,"How worried are you about… c. Law enforcement monitoring what you do online",Very worried,15
+PRIVWRY,"How worried are you about… c. Law enforcement monitoring what you do online",Somewhat worried,24
+PRIVWRY,"How worried are you about… c. Law enforcement monitoring what you do online",Not too worried,38
+PRIVWRY,"How worried are you about… c. Law enforcement monitoring what you do online",Not at all worried,20
+PRIVWRY,"How worried are you about… c. Law enforcement monitoring what you do online",No answer,*
+PRIVWRY,"How worried are you about… c. Law enforcement monitoring what you do online",Does not use internet,3
+CYBCONF,"How confident are you in knowing what steps to take if your personal information is hacked or stolen online?",Very confident,11
+CYBCONF,"How confident are you in knowing what steps to take if your personal information is hacked or stolen online?",Somewhat confident,42
+CYBCONF,"How confident are you in knowing what steps to take if your personal information is hacked or stolen online?",Not too confident,34
+CYBCONF,"How confident are you in knowing what steps to take if your personal information is hacked or stolen online?",Not at all confident,10
+CYBCONF,"How confident are you in knowing what steps to take if your personal information is hacked or stolen online?",No answer,*
+CYBCONF,"How confident are you in knowing what steps to take if your personal information is hacked or stolen online?",Does not use internet,3
+DB1,"In the last 12 months, have you had someone… a. Put fraudulent charges on your debit or credit card (May 15-21, 2023)",Yes,26
+DB1,"In the last 12 months, have you had someone… a. Put fraudulent charges on your debit or credit card (May 15-21, 2023)",No,73
+DB1,"In the last 12 months, have you had someone… a. Put fraudulent charges on your debit or credit card (May 15-21, 2023)",No answer,*
+DB1,"In the last 12 months, have you had someone… a. Put fraudulent charges on your debit or credit card (Jun 3-17, 2019)",Yes,21
+DB1,"In the last 12 months, have you had someone… a. Put fraudulent charges on your debit or credit card (Jun 3-17, 2019)",No,78
+DB1,"In the last 12 months, have you had someone… a. Put fraudulent charges on your debit or credit card (Jun 3-17, 2019)",No answer,1
+DB1,"In the last 12 months, have you had someone… b. Take over your email or social media account without your permission (May 15-21, 2023)",Yes,11
+DB1,"In the last 12 months, have you had someone… b. Take over your email or social media account without your permission (May 15-21, 2023)",No,89
+DB1,"In the last 12 months, have you had someone… b. Take over your email or social media account without your permission (May 15-21, 2023)",No answer,*
+DB1,"In the last 12 months, have you had someone… b. Take over your email or social media account without your permission (Jun 3-17, 2019)",Yes,8
+DB1,"In the last 12 months, have you had someone… b. Take over your email or social media account without your permission (Jun 3-17, 2019)",No,91
+DB1,"In the last 12 months, have you had someone… b. Take over your email or social media account without your permission (Jun 3-17, 2019)",No answer,1
+DB1,"In the last 12 months, have you had someone… c. Attempt to open a line of credit or apply for a loan using your name (May 15-21, 2023)",Yes,7
+DB1,"In the last 12 months, have you had someone… c. Attempt to open a line of credit or apply for a loan using your name (May 15-21, 2023)",No,93
+DB1,"In the last 12 months, have you had someone… c. Attempt to open a line of credit or apply for a loan using your name (May 15-21, 2023)",No answer,*
+DB1,"In the last 12 months, have you had someone… c. Attempt to open a line of credit or apply for a loan using your name (Jun 3-17, 2019)",Yes,6
+DB1,"In the last 12 months, have you had someone… c. Attempt to open a line of credit or apply for a loan using your name (Jun 3-17, 2019)",No,93
+DB1,"In the last 12 months, have you had someone… c. Attempt to open a line of credit or apply for a loan using your name (Jun 3-17, 2019)",No answer,1
+DKQ2,"If a website uses cookies, it means that the site can…",Protect your computer from getting viruses,3
+DKQ2,"If a website uses cookies, it means that the site can…",Send you pop-up advertisements,8
+DKQ2,"If a website uses cookies, it means that the site can…",Look at files saved on your computer,3
+DKQ2,"If a website uses cookies, it means that the site can…",Track your visits and activity on the site,67
+DKQ2,"If a website uses cookies, it means that the site can…",Not sure,19
+DKQ2,"If a website uses cookies, it means that the site can…",No answer,*
+DKQ5,"Which of the following passwords is the most secure?",SportsFan1983,1
+DKQ5,"Which of the following passwords is the most secure?",WTh!58iLf2?9zD,87
+DKQ5,"Which of the following passwords is the most secure?",abc12.6.48,1
+DKQ5,"Which of the following passwords is the most secure?",1234567890,1
+DKQ5,"Which of the following passwords is the most secure?",Not sure,10
+DKQ5,"Which of the following passwords is the most secure?",No answer,*
+DKQ8,"Which of the following images is an example of two-factor authentication?",Enter code received on phone,48
+DKQ8,"Which of the following images is an example of two-factor authentication?",Type the two words seen on screen,4
+DKQ8,"Which of the following images is an example of two-factor authentication?",Answer security questions,21
+DKQ8,"Which of the following images is an example of two-factor authentication?",Select all images with crosswalks,14
+DKQ8,"Which of the following images is an example of two-factor authentication?",Not sure,13
+DKQ8,"Which of the following images is an example of two-factor authentication?",No answer,1
+DKQ9,"Websites in the United States are prohibited from collecting data online from children under what age without a parent’s consent?","{Age}",6
+DKQ9,"Websites in the United States are prohibited from collecting data online from children under what age without a parent’s consent?","10",11
+DKQ9,"Websites in the United States are prohibited from collecting data online from children under what age without a parent’s consent?","13 {correct}",34
+DKQ9,"Websites in the United States are prohibited from collecting data online from children under what age without a parent’s consent?","16",24
+DKQ9,"Websites in the United States are prohibited from collecting data online from children under what age without a parent’s consent?","18",45
+DKQ9,"Websites in the United States are prohibited from collecting data online from children under what age without a parent’s consent?","Not sure",40
+DKQ9,"Websites in the United States are prohibited from collecting data online from children under what age without a parent’s consent?","No answer",1
+DKQ10,"Does the United States have a national privacy law that sets common standards for what companies can do with all data their products and services collect?","Yes, it does",24
+DKQ10,"Does the United States have a national privacy law that sets common standards for what companies can do with all data their products and services collect?","No, it does not {correct}",23
+DKQ10,"Does the United States have a national privacy law that sets common standards for what companies can do with all data their products and services collect?","Not sure",52
+DKQ10,"Does the United States have a national privacy law that sets common standards for what companies can do with all data their products and services collect?","No answer",1
+CONCERNCO,"How concerned are you about how companies are using the data they collect about you?",Very concerned,36
+CONCERNCO,"How concerned are you about how companies are using the data they collect about you?",Somewhat concerned,45
+CONCERNCO,"How concerned are you about how companies are using the data they collect about you?",Not too concerned,17
+CONCERNCO,"How concerned are you about how companies are using the data they collect about you?",Not at all concerned,4
+CONCERNCO,"How concerned are you about how companies are using the data they collect about you?",No answer,*
+CONTROLCO,"How much control do you think you have over the data that companies collect about you?","A great deal of control",4
+CONTROLCO,"How much control do you think you have over the data that companies collect about you?","Some control",18
+CONTROLCO,"How much control do you think you have over the data that companies collect about you?","Very little control",51
+CONTROLCO,"How much control do you think you have over the data that companies collect about you?","No control",27
+CONTROLCO,"How much control do you think you have over the data that companies collect about you?","No answer",1
+UNDERSTANDCO,"How much do you feel you understand what companies are doing with the data they collect about you?","A great deal",6
+UNDERSTANDCO,"How much do you feel you understand what companies are doing with the data they collect about you?","Some",30
+UNDERSTANDCO,"How much do you feel you understand what companies are doing with the data they collect about you?","Very little",49
+UNDERSTANDCO,"How much do you feel you understand what companies are doing with the data they collect about you?","Nothing",15
+UNDERSTANDCO,"How much do you feel you understand what companies are doing with the data they collect about you?","No answer",1
+CONCERNGOV,"How concerned are you about how the government is using the data it collects about you?","Very concerned",28
+CONCERNGOV,"How concerned are you about how the government is using the data it collects about you?","Somewhat concerned",39
+CONCERNGOV,"How concerned are you about how the government is using the data it collects about you?","Not too concerned",25
+CONCERNGOV,"How concerned are you about how the government is using the data it collects about you?","Not at all concerned",8
+CONCERNGOV,"How concerned are you about how the government is using the data it collects about you?","No answer",*
+CONTROLGOV,"How much control do you think you have over the data the government collects about you?","A great deal of control",5
+CONTROLGOV,"How much control do you think you have over the data the government collects about you?","Some control",13
+CONTROLGOV,"How much control do you think you have over the data the government collects about you?","Very little control",42
+CONTROLGOV,"How much control do you think you have over the data the government collects about you?","No control",40
+CONTROLGOV,"How much control do you think you have over the data the government collects about you?","No answer",1
+UNDERSTANDGOV,"How much do you feel you understand what the government is doing with the data it collects about you?","A great deal",5
+UNDERSTANDGOV,"How much do you feel you understand what the government is doing with the data it collects about you?","Some",17
+UNDERSTANDGOV,"How much do you feel you understand what the government is doing with the data it collects about you?","Very little",52
+UNDERSTANDGOV,"How much do you feel you understand what the government is doing with the data it collects about you?","Nothing",26
+UNDERSTANDGOV,"How much do you feel you understand what the government is doing with the data it collects about you?","No answer",1
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? a. A smart speaker analyzing people’s voices to learn to recognize who is speaking","Very acceptable",8
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? a. A smart speaker analyzing people’s voices to learn to recognize who is speaking","Somewhat acceptable",33
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? a. A smart speaker analyzing people’s voices to learn to recognize who is speaking","Somewhat unacceptable",21
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? a. A smart speaker analyzing people’s voices to learn to recognize who is speaking","Very unacceptable",24
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? a. A smart speaker analyzing people’s voices to learn to recognize who is speaking","Not sure",14
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? a. A smart speaker analyzing people’s voices to learn to recognize who is speaking","No answer",*
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? b. Social media companies analyzing what people do on their sites to deliver personalized content","Very acceptable",5
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? b. Social media companies analyzing what people do on their sites to deliver personalized content","Somewhat acceptable",36
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? b. Social media companies analyzing what people do on their sites to deliver personalized content","Somewhat unacceptable",27
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? b. Social media companies analyzing what people do on their sites to deliver personalized content","Very unacceptable",21
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? b. Social media companies analyzing what people do on their sites to deliver personalized content","Not sure",10
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? b. Social media companies analyzing what people do on their sites to deliver personalized content","No answer",*
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? c. Using computer programs, or algorithms, to determine who should be eligible for public assistance","Very acceptable",5
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? c. Using computer programs, or algorithms, to determine who should be eligible for public assistance","Somewhat acceptable",23
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? c. Using computer programs, or algorithms, to determine who should be eligible for public assistance","Somewhat unacceptable",21
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? c. Using computer programs, or algorithms, to determine who should be eligible for public assistance","Very unacceptable",34
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? c. Using computer programs, or algorithms, to determine who should be eligible for public assistance","Not sure",17
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? c. Using computer programs, or algorithms, to determine who should be eligible for public assistance","No answer",*
+PPREAD,"How often do you click “agree” right away, without reading what these policies say?","Always or almost always",31
+PPREAD,"How often do you click “agree” right away, without reading what these policies say?","Often",26
+PPREAD,"How often do you click “agree” right away, without reading what these policies say?","Sometimes",22
+PPREAD,"How often do you click “agree” right away, without reading what these policies say?","Rarely",12
+PPREAD,"How often do you click “agree” right away, without reading what these policies say?","Never",6
+PPREAD,"How often do you click “agree” right away, without reading what these policies say?","No answer",*
+PPREAD,"How often do you click “agree” right away, without reading what these policies say?","Does not use internet",3
+PPEFF,"How effective do you think privacy policies are as a way for companies to communicate how they are using people’s data?","Extremely effective",2
+PPEFF,"How effective do you think privacy policies are as a way for companies to communicate how they are using people’s data?","Very effective",6
+PPEFF,"How effective do you think privacy policies are as a way for companies to communicate how they are using people’s data?","Somewhat effective",27
+PPEFF,"How effective do you think privacy policies are as a way for companies to communicate how they are using people’s data?","Not too effective",36
+PPEFF,"How effective do you think privacy policies are as a way for companies to communicate how they are using people’s data?","Not at all effective",25
+PPEFF,"How effective do you think privacy policies are as a way for companies to communicate how they are using people’s data?","No answer",1
+PPEFF,"How effective do you think privacy policies are as a way for companies to communicate how they are using people’s data?","Does not use internet",3
+PPUSE,"Which of the following comes closer to your view, even if neither is exactly right? Privacy policies are…","Just something I have to get past in order to use a product or service",69
+PPUSE,"Which of the following comes closer to your view, even if neither is exactly right? Privacy policies are…","A meaningful part of my decision to use a product or service",27
+PPUSE,"Which of the following comes closer to your view, even if neither is exactly right? Privacy policies are…","No answer",1
+PPUSE,"Which of the following comes closer to your view, even if neither is exactly right? Privacy policies are…","Does not use internet",3
+SMLEAD,"How much do you trust that leaders of social media companies will publicly admit mistakes and take responsibility when they misuse or compromise users’ personal data?","A great deal",5
+SMLEAD,"How much do you trust that leaders of social media companies will publicly admit mistakes and take responsibility when they misuse or compromise users’ personal data?","Some",11
+SMLEAD,"How much do you trust that leaders of social media companies will publicly admit mistakes and take responsibility when they misuse or compromise users’ personal data?","Very little",34
+SMLEAD,"How much do you trust that leaders of social media companies will publicly admit mistakes and take responsibility when they misuse or compromise users’ personal data?","Not at all",43
+SMLEAD,"How much do you trust that leaders of social media companies will publicly admit mistakes and take responsibility when they misuse or compromise users’ personal data?","Not sure",7
+SMLEAD,"How much do you trust that leaders of social media companies will publicly admit mistakes and take responsibility when they misuse or compromise users’ personal data?","No answer",*
+SMLEAD,"How much do you trust that leaders of social media companies will be held accountable by the government if they misuse or compromise users’ personal data?","A great deal",7
+SMLEAD,"How much do you trust that leaders of social media companies will be held accountable by the government if they misuse or compromise users’ personal data?","Some",16
+SMLEAD,"How much do you trust that leaders of social media companies will be held accountable by the government if they misuse or compromise users’ personal data?","Very little",34
+SMLEAD,"How much do you trust that leaders of social media companies will be held accountable by the government if they misuse or compromise users’ personal data?","Not at all",36
+SMLEAD,"How much do you trust that leaders of social media companies will be held accountable by the government if they misuse or compromise users’ personal data?","Not sure",7
+SMLEAD,"How much do you trust that leaders of social media companies will be held accountable by the government if they misuse or compromise users’ personal data?","No answer",*
+SMLEAD,"How much do you trust that leaders of social media companies will not sell users’ personal data to others without their consent?","A great deal",6
+SMLEAD,"How much do you trust that leaders of social media companies will not sell users’ personal data to others without their consent?","Some",11
+SMLEAD,"How much do you trust that leaders of social media companies will not sell users’ personal data to others without their consent?","Very little",30
+SMLEAD,"How much do you trust that leaders of social media companies will not sell users’ personal data to others without their consent?","Not at all",46
+SMLEAD,"How much do you trust that leaders of social media companies will not sell users’ personal data to others without their consent?","Not sure",7
+SMLEAD,"How much do you trust that leaders of social media companies will not sell users’ personal data to others without their consent?","No answer",*
+DIGHABT1,"Have you ever stopped using a digital device, website or app because you were worried about how your personal information was being used?","Yes, I have",49
+DIGHABT1,"Have you ever stopped using a digital device, website or app because you were worried about how your personal information was being used?","No, I have not",47
+DIGHABT1,"Have you ever stopped using a digital device, website or app because you were worried about how your personal information was being used?","No answer",1
+DIGHABT1,"Have you ever stopped using a digital device, website or app because you were worried about how your personal information was being used?","Does not use internet",3
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? a. Decline or turn off cookies or other tracking on websites","Yes, I do",69
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? a. Decline or turn off cookies or other tracking on websites","No, I do not",30
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? a. Decline or turn off cookies or other tracking on websites","No answer",1
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? c. Use messaging apps or services that encrypt your private communication with others","Yes, I do",37
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? c. Use messaging apps or services that encrypt your private communication with others","No, I do not",61
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? c. Use messaging apps or services that encrypt your private communication with others","No answer",1
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? d. Use a browser or search engine that doesn’t keep track of what you’re doing","Yes, I do",45
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? d. Use a browser or search engine that doesn’t keep track of what you’re doing","No, I do not",53
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? d. Use a browser or search engine that doesn’t keep track of what you’re doing","No answer",2
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? e. Change your social media privacy settings","Yes, I do",68
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? e. Change your social media privacy settings","No, I do not",31
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? e. Change your social media privacy settings","No answer",1
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? a. Decline or turn off cookies or other tracking on websites","Yes, I do",67
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? a. Decline or turn off cookies or other tracking on websites","No, I do not",30
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? a. Decline or turn off cookies or other tracking on websites","No answer",1
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? a. Decline or turn off cookies or other tracking on websites","Does not use internet",3
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? c. Use messaging apps or services that encrypt your private communication with others","Yes, I do",36
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? c. Use messaging apps or services that encrypt your private communication with others","No, I do not",59
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? c. Use messaging apps or services that encrypt your private communication with others","No answer",1
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? c. Use messaging apps or services that encrypt your private communication with others","Does not use internet",3
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? d. Use a browser or search engine that doesn’t keep track of what you’re doing","Yes, I do",44
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? d. Use a browser or search engine that doesn’t keep track of what you’re doing","No, I do not",51
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? d. Use a browser or search engine that doesn’t keep track of what you’re doing","No answer",2
+DIGHABT2,"Do you ever do any of the following to manage your privacy online? d. Use a browser or search engine that doesn’t keep track of what you’re doing","Does not use internet",3
+PWFEEL,"Do you ever feel… a. Overwhelmed by the amount of passwords you have to keep track of?","Yes, I feel this way",69
+PWFEEL,"Do you ever feel… a. Overwhelmed by the amount of passwords you have to keep track of?","No, I do not feel this way",27
+PWFEEL,"Do you ever feel… a. Overwhelmed by the amount of passwords you have to keep track of?","No answer to PWFEEL",1
+PWFEEL,"Do you ever feel… a. Overwhelmed by the amount of passwords you have to keep track of?","Does not use internet",3
+PWFEEL,"Do you ever feel… b. Anxious about whether the passwords you use are strong and secure?","Yes, I feel this way",45
+PWFEEL,"Do you ever feel… b. Anxious about whether the passwords you use are strong and secure?","No, I do not feel this way",51
+PWFEEL,"Do you ever feel… b. Anxious about whether the passwords you use are strong and secure?","No answer to PWFEEL",1
+PWFEEL,"Do you ever feel… b. Anxious about whether the passwords you use are strong and secure?","Does not use internet",3
+PWPREF,"When picking a password, do you generally create one that you think will be…","Easier to remember, even if it may be less secure",46
+PWPREF,"When picking a password, do you generally create one that you think will be…","More secure, even if it may be harder to remember",50
+PWPREF,"When picking a password, do you generally create one that you think will be…","No answer",1
+PWPREF,"When picking a password, do you generally create one that you think will be…","Does not use internet",3
+PWMAN,"Do you use a password manager, such as LastPass or iCloud Keychain, to help keep track of your online passwords?","Yes, I use a password manager",24
+PWMAN,"Do you use a password manager, such as LastPass or iCloud Keychain, to help keep track of your online passwords?","No, I do not use a password manager",73
+PWMAN,"Do you use a password manager, such as LastPass or iCloud Keychain, to help keep track of your online passwords?","No answer",1
+PWEXP,"In thinking about how you access your different online accounts, how often do you… a. Reset your passwords","Always or almost always",5
+PWEXP,"In thinking about how you access your different online accounts, how often do you… a. Reset your passwords","Often",16
+PWEXP,"In thinking about how you access your different online accounts, how often do you… a. Reset your passwords","Sometimes",47
+PWEXP,"In thinking about how you access your different online accounts, how often do you… a. Reset your passwords","Rarely",24
+PWEXP,"In thinking about how you access your different online accounts, how often do you… a. Reset your passwords","Never",4
+PWEXP,"In thinking about how you access your different online accounts, how often do you… a. Reset your passwords","No answer",1
+PWEXP,"In thinking about how you access your different online accounts, how often do you… a. Reset your passwords","Does not use internet",3
+PWEXP,"In thinking about how you access your different online accounts, how often do you… b. Save passwords in your browser","Always or almost always",16
+PWEXP,"In thinking about how you access your different online accounts, how often do you… b. Save passwords in your browser","Often",18
+PWEXP,"In thinking about how you access your different online accounts, how often do you… b. Save passwords in your browser","Sometimes",24
+PWEXP,"In thinking about how you access your different online accounts, how often do you… b. Save passwords in your browser","Rarely",14
+PWEXP,"In thinking about how you access your different online accounts, how often do you… b. Save passwords in your browser","Never",24
+PWEXP,"In thinking about how you access your different online accounts, how often do you… b. Save passwords in your browser","No answer",1
+PWEXP,"In thinking about how you access your different online accounts, how often do you… b. Save passwords in your browser","Does not use internet",3
+PWEXP,"In thinking about how you access your different online accounts, how often do you… c. Write your passwords down","Always or almost always",26
+PWEXP,"In thinking about how you access your different online accounts, how often do you… c. Write your passwords down","Often",15
+PWEXP,"In thinking about how you access your different online accounts, how often do you… c. Write your passwords down","Sometimes",19
+PWEXP,"In thinking about how you access your different online accounts, how often do you… c. Write your passwords down","Rarely",17
+PWEXP,"In thinking about how you access your different online accounts, how often do you… c. Write your passwords down","Never",20
+PWEXP,"In thinking about how you access your different online accounts, how often do you… c. Write your passwords down","No answer",1
+PWEXP,"In thinking about how you access your different online accounts, how often do you… c. Write your passwords down","Does not use internet",3
+SPACCESS,"Do you use a passcode, fingerprint, face recognition, or other security feature to unlock your smartphone?","Yes, I do",83
+SPACCESS,"Do you use a passcode, fingerprint, face recognition, or other security feature to unlock your smartphone?","No, I do not",16
+SPACCESS,"Do you use a passcode, fingerprint, face recognition, or other security feature to unlock your smartphone?","No answer",1
+UPDATEPREF,"How do you typically handle software updates for each of the following? a. Your smartphone operating system","I set them to update automatically",42
+UPDATEPREF,"How do you typically handle software updates for each of the following? a. Your smartphone operating system","I update them when I’m notified, as soon as it’s convenient",37
+UPDATEPREF,"How do you typically handle software updates for each of the following? a. Your smartphone operating system","I update them when I’m notified, but only when I am required to",17
+UPDATEPREF,"How do you typically handle software updates for each of the following? a. Your smartphone operating system","I never install updates",3
+UPDATEPREF,"How do you typically handle software updates for each of the following? a. Your smartphone operating system","No answer",1
+UPDATEPREF,"How do you typically handle software updates for each of the following? b. Specific apps on your smartphone","I set them to update automatically",40
+UPDATEPREF,"How do you typically handle software updates for each of the following? b. Specific apps on your smartphone","I update them when I’m notified, as soon as it’s convenient",34
+UPDATEPREF,"How do you typically handle software updates for each of the following? b. Specific apps on your smartphone","I update them when I’m notified, but only when I am required to",21
+UPDATEPREF,"How do you typically handle software updates for each of the following? b. Specific apps on your smartphone","I never install updates",4
+UPDATEPREF,"How do you typically handle software updates for each of the following? b. Specific apps on your smartphone","No answer",1
+PRIVACYREG,"How much do you feel you understand the laws and regulations that are currently in place to protect your data privacy?","A great deal",3
+PRIVACYREG,"How much do you feel you understand the laws and regulations that are currently in place to protect your data privacy?","Some",29
+PRIVACYREG,"How much do you feel you understand the laws and regulations that are currently in place to protect your data privacy?","Very little",50
+PRIVACYREG,"How much do you feel you understand the laws and regulations that are currently in place to protect your data privacy?","Not at all",18
+PRIVACYREG,"How much do you feel you understand the laws and regulations that are currently in place to protect your data privacy?","No answer",*
+GOVREGV1,"How much government regulation do you think there should be of what companies can do with their customers’ personal information?","More regulation than now",74
+GOVREGV1,"How much government regulation do you think there should be of what companies can do with their customers’ personal information?","Less regulation than now",8
+GOVREGV1,"How much government regulation do you think there should be of what companies can do with their customers’ personal information?","About the same amount as now",17
+GOVREGV1,"How much government regulation do you think there should be of what companies can do with their customers’ personal information?","No answer",2
+KIDPRIV1,"How concerned are you about each of the following? a. Advertisers using data about what children do online to target ads to them","Very concerned",51
+KIDPRIV1,"How concerned are you about each of the following? a. Advertisers using data about what children do online to target ads to them","Somewhat concerned",34
+KIDPRIV1,"How concerned are you about each of the following? a. Advertisers using data about what children do online to target ads to them","Not too concerned",10
+KIDPRIV1,"How concerned are you about each of the following? a. Advertisers using data about what children do online to target ads to them","Not at all concerned",3
+KIDPRIV1,"How concerned are you about each of the following? a. Advertisers using data about what children do online to target ads to them","No answer",1
+KIDPRIV1,"How concerned are you about each of the following? b. Online games or gaming apps tracking what children are doing on them","Very concerned",48
+KIDPRIV1,"How concerned are you about each of the following? b. Online games or gaming apps tracking what children are doing on them","Somewhat concerned",35
+KIDPRIV1,"How concerned are you about each of the following? b. Online games or gaming apps tracking what children are doing on them","Not too concerned",11
+KIDPRIV1,"How concerned are you about each of the following? b. Online games or gaming apps tracking what children are doing on them","Not at all concerned",4
+KIDPRIV1,"How concerned are you about each of the following? b. Online games or gaming apps tracking what children are doing on them","No answer",1
+KIDPRIV1,"How concerned are you about each of the following? c. Social media sites and apps knowing personal information about children","Very concerned",59
+KIDPRIV1,"How concerned are you about each of the following? c. Social media sites and apps knowing personal information about children","Somewhat concerned",30
+KIDPRIV1,"How concerned are you about each of the following? c. Social media sites and apps knowing personal information about children","Not too concerned",8
+KIDPRIV1,"How concerned are you about each of the following? c. Social media sites and apps knowing personal information about children","Not at all concerned",3
+KIDPRIV1,"How concerned are you about each of the following? c. Social media sites and apps knowing personal information about children","No answer",1
+KIDPRIV2,"How much responsibility do you think each of the following should have for protecting children’s digital privacy? a. The government","A great deal of responsibility",46
+KIDPRIV2,"How much responsibility do you think each of the following should have for protecting children’s digital privacy? a. The government","Some responsibility",39
+KIDPRIV2,"How much responsibility do you think each of the following should have for protecting children’s digital privacy? a. The government","Very little responsibility",10
+KIDPRIV2,"How much responsibility do you think each of the following should have for protecting children’s digital privacy? a. The government","No responsibility at all",5
+KIDPRIV2,"How much responsibility do you think each of the following should have for protecting children’s digital privacy? a. The government","No answer",1
+KIDPRIV2,"How much responsibility do you think each of the following should have for protecting children’s digital privacy? b. Technology companies","A great deal of responsibility",59
+KIDPRIV2,"How much responsibility do you think each of the following should have for protecting children’s digital privacy? b. Technology companies","Some responsibility",32
+KIDPRIV2,"How much responsibility do you think each of the following should have for protecting children’s digital privacy? b. Technology companies","Very little responsibility",5
+KIDPRIV2,"How much responsibility do you think each of the following should have for protecting children’s digital privacy? b. Technology companies","No responsibility at all",3
+KIDPRIV2,"How much responsibility do you think each of the following should have for protecting children’s digital privacy? b. Technology companies","No answer",1
+KIDPRIV2,"How much responsibility do you think each of the following should have for protecting children’s digital privacy? c. Parents","A great deal of responsibility",85
+KIDPRIV2,"How much responsibility do you think each of the following should have for protecting children’s digital privacy? c. Parents","Some responsibility",10
+KIDPRIV2,"How much responsibility do you think each of the following should have for protecting children’s digital privacy? c. Parents","Very little responsibility",3
+KIDPRIV2,"How much responsibility do you think each of the following should have for protecting children’s digital privacy? c. Parents","No responsibility at all",1
+KIDPRIV2,"How much responsibility do you think each of the following should have for protecting children’s digital privacy? c. Parents","No answer",1
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? a. Obtain footage from cameras people install at their residences, like video doorbells","Very acceptable",41
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? a. Obtain footage from cameras people install at their residences, like video doorbells","Somewhat acceptable",32
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? a. Obtain footage from cameras people install at their residences, like video doorbells","Somewhat unacceptable",9
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? a. Obtain footage from cameras people install at their residences, like video doorbells","Very unacceptable",9
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? a. Obtain footage from cameras people install at their residences, like video doorbells","Not sure",7
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? a. Obtain footage from cameras people install at their residences, like video doorbells","No answer",1
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? b. Require third parties to turn over users’ private chats, messages or calls","Very acceptable",24
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? b. Require third parties to turn over users’ private chats, messages or calls","Somewhat acceptable",30
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? b. Require third parties to turn over users’ private chats, messages or calls","Somewhat unacceptable",18
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? b. Require third parties to turn over users’ private chats, messages or calls","Very unacceptable",15
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? b. Require third parties to turn over users’ private chats, messages or calls","Not sure",11
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? b. Require third parties to turn over users’ private chats, messages or calls","No answer",1
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? c. Break the passcode on a user’s phone to get access to its contents","Very acceptable",25
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? c. Break the passcode on a user’s phone to get access to its contents","Somewhat acceptable",29
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? c. Break the passcode on a user’s phone to get access to its contents","Somewhat unacceptable",17
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? c. Break the passcode on a user’s phone to get access to its contents","Very unacceptable",18
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? c. Break the passcode on a user’s phone to get access to its contents","Not sure",11
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? c. Break the passcode on a user’s phone to get access to its contents","No answer",1
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? d. Use information from cell phone towers to track where someone is","Very acceptable",43
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? d. Use information from cell phone towers to track where someone is","Somewhat acceptable",31
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? d. Use information from cell phone towers to track where someone is","Somewhat unacceptable",10
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? d. Use information from cell phone towers to track where someone is","Very unacceptable",7
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? d. Use information from cell phone towers to track where someone is","Not sure",8
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? d. Use information from cell phone towers to track where someone is","No answer",1
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? a. Obtain footage from cameras people install at their residences, like video doorbells","Very acceptable",43
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? a. Obtain footage from cameras people install at their residences, like video doorbells","Somewhat acceptable",30
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? a. Obtain footage from cameras people install at their residences, like video doorbells","Somewhat unacceptable",10
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? a. Obtain footage from cameras people install at their residences, like video doorbells","Very unacceptable",10
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? a. Obtain footage from cameras people install at their residences, like video doorbells","Not sure",6
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? a. Obtain footage from cameras people install at their residences, like video doorbells","No answer",*
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? b. Require third parties to turn over users’ private chats, messages or calls","Very acceptable",28
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? b. Require third parties to turn over users’ private chats, messages or calls","Somewhat acceptable",31
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? b. Require third parties to turn over users’ private chats, messages or calls","Somewhat unacceptable",16
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? b. Require third parties to turn over users’ private chats, messages or calls","Very unacceptable",15
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? b. Require third parties to turn over users’ private chats, messages or calls","Not sure",10
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? b. Require third parties to turn over users’ private chats, messages or calls","No answer",*
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? c. Break the passcode on a user’s phone to get access to its contents","Very acceptable",30
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? c. Break the passcode on a user’s phone to get access to its contents","Somewhat acceptable",31
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? c. Break the passcode on a user’s phone to get access to its contents","Somewhat unacceptable",13
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? c. Break the passcode on a user’s phone to get access to its contents","Very unacceptable",18
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? c. Break the passcode on a user’s phone to get access to its contents","Not sure",9
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? c. Break the passcode on a user’s phone to get access to its contents","No answer",1
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? d. Use information from cell phone towers to track where someone is","Very acceptable",47
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? d. Use information from cell phone towers to track where someone is","Somewhat acceptable",30
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? d. Use information from cell phone towers to track where someone is","Somewhat unacceptable",10
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? d. Use information from cell phone towers to track where someone is","Very unacceptable",8
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? d. Use information from cell phone towers to track where someone is","Not sure",5
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? d. Use information from cell phone towers to track where someone is","No answer",*
+AI_HEARD,"How much have you heard or read about AI?","A lot",27
+AI_HEARD,"How much have you heard or read about AI?","A little",60
+AI_HEARD,"How much have you heard or read about AI?","Nothing at all",14
+AI_HEARD,"How much have you heard or read about AI?","No answer",*
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways people would not be comfortable with?","Definitely will happen",40
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways people would not be comfortable with?","Probably will happen",41
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways people would not be comfortable with?","Probably will not happen",8
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways people would not be comfortable with?","Definitely will not happen",3
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways people would not be comfortable with?","Not sure",7
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways people would not be comfortable with?","No answer",*
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways that were not originally intended?","Definitely will happen",44
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways that were not originally intended?","Probably will happen",36
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways that were not originally intended?","Probably will not happen",8
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways that were not originally intended?","Definitely will not happen",3
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways that were not originally intended?","Not sure",9
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways that were not originally intended?","No answer",*
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways that could make people’s lives easier?","Definitely will happen",14
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways that could make people’s lives easier?","Probably will happen",48
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways that could make people’s lives easier?","Probably will not happen",20
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways that could make people’s lives easier?","Definitely will not happen",7
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways that could make people’s lives easier?","Not sure",10
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways that could make people’s lives easier?","No answer",*
+AIPRIV3,"How much do you trust companies to make responsible decisions about how they use AI in their products?","A great deal",2
+AIPRIV3,"How much do you trust companies to make responsible decisions about how they use AI in their products?","Some",22
+AIPRIV3,"How much do you trust companies to make responsible decisions about how they use AI in their products?","Very little",41
+AIPRIV3,"How much do you trust companies to make responsible decisions about how they use AI in their products?","Not at all",30
+AIPRIV3,"How much do you trust companies to make responsible decisions about how they use AI in their products?","Not sure",6
+AIPRIV3,"How much do you trust companies to make responsible decisions about how they use AI in their products?","No answer",*
+PARTY,"In politics today, do you consider yourself a:","Republican",28
+PARTY,"In politics today, do you consider yourself a:","Democrat",28
+PARTY,"In politics today, do you consider yourself a:","Independent",27
+PARTY,"In politics today, do you consider yourself a:","Something else",15
+PARTY,"In politics today, do you consider yourself a:","No answer",2
+PARTYLN,"As of today do you lean more to…","Lean Rep",18
+PARTYLN,"As of today do you lean more to…","Lean Dem",19

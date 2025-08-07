@@ -1,0 +1,76 @@
+QuestionID,Question
+DIGCONF,"Overall, how confident do you feel using computers, smartphones, or other electronic devices to do the things you need to do online?"
+TECHHELP,"When I get a new computer, smartphone, or other electronic device, I usually..."
+PRIVFEEL,"When you think about managing your privacy online, do you feel… a. Overwhelmed by figuring out what you need to do"
+PRIVFEEL,"When you think about managing your privacy online, do you feel… b. Skeptical that anything you do will make much difference"
+PRIVFEEL,"When you think about managing your privacy online, do you feel… c. Confident those who have access to your personal information will do what is right"
+PRIVFEEL,"When you think about managing your privacy online, do you feel… d. You trust yourself to make the right decisions about your personal information"
+PRIVFEEL,"When you think about managing your privacy online, do you feel… e. Like privacy is not that big of a deal to you"
+PRIVWRY,How worried are you about… a. People stealing your identity or personal information
+PRIVWRY,How worried are you about… b. Companies selling your information to others without you knowing
+PRIVWRY,How worried are you about… c. Law enforcement monitoring what you do online
+CYBCONF,How confident are you in knowing what steps to take if your personal information is hacked or stolen online?
+DB1,"In the last 12 months, have you had someone… a. Put fraudulent charges on your debit or credit card (May 15-21, 2023)"
+DB1,"In the last 12 months, have you had someone… a. Put fraudulent charges on your debit or credit card (Jun 3-17, 2019)"
+DB1,"In the last 12 months, have you had someone… b. Take over your email or social media account without your permission (May 15-21, 2023)"
+DB1,"In the last 12 months, have you had someone… b. Take over your email or social media account without your permission (Jun 3-17, 2019)"
+DB1,"In the last 12 months, have you had someone… c. Attempt to open a line of credit or apply for a loan using your name (May 15-21, 2023)"
+DB1,"In the last 12 months, have you had someone… c. Attempt to open a line of credit or apply for a loan using your name (Jun 3-17, 2019)"
+DKQ2,"If a website uses cookies, it means that the site can…"
+DKQ5,Which of the following passwords is the most secure?
+DKQ8,Which of the following images is an example of two-factor authentication?
+DKQ9,Websites in the United States are prohibited from collecting data online from children under what age without a parent’s consent?
+DKQ10,Does the United States have a national privacy law that sets common standards for what companies can do with all data their products and services collect?
+CONCERNCO,How concerned are you about how companies are using the data they collect about you?
+CONTROLCO,How much control do you think you have over the data that companies collect about you?
+UNDERSTANDCO,How much do you feel you understand what companies are doing with the data they collect about you?
+CONCERNGOV,How concerned are you about how the government is using the data it collects about you?
+CONTROLGOV,How much control do you think you have over the data the government collects about you?
+UNDERSTANDGOV,How much do you feel you understand what the government is doing with the data it collects about you?
+AIPRIV1,How acceptable do you think each of the following uses of people’s information is? a. A smart speaker analyzing people’s voices to learn to recognize who is speaking
+AIPRIV1,How acceptable do you think each of the following uses of people’s information is? b. Social media companies analyzing what people do on their sites to deliver personalized content
+AIPRIV1,"How acceptable do you think each of the following uses of people’s information is? c. Using computer programs, or algorithms, to determine who should be eligible for public assistance"
+PPREAD,"How often do you click “agree” right away, without reading what these policies say?"
+PPEFF,How effective do you think privacy policies are as a way for companies to communicate how they are using people’s data?
+PPUSE,"Which of the following comes closer to your view, even if neither is exactly right? Privacy policies are…"
+SMLEAD,How much do you trust that leaders of social media companies will publicly admit mistakes and take responsibility when they misuse or compromise users’ personal data?
+SMLEAD,How much do you trust that leaders of social media companies will be held accountable by the government if they misuse or compromise users’ personal data?
+SMLEAD,How much do you trust that leaders of social media companies will not sell users’ personal data to others without their consent?
+DIGHABT1,"Have you ever stopped using a digital device, website or app because you were worried about how your personal information was being used?"
+DIGHABT2,Do you ever do any of the following to manage your privacy online? a. Decline or turn off cookies or other tracking on websites
+DIGHABT2,Do you ever do any of the following to manage your privacy online? c. Use messaging apps or services that encrypt your private communication with others
+DIGHABT2,Do you ever do any of the following to manage your privacy online? d. Use a browser or search engine that doesn’t keep track of what you’re doing
+DIGHABT2,Do you ever do any of the following to manage your privacy online? e. Change your social media privacy settings
+PWFEEL,Do you ever feel… a. Overwhelmed by the amount of passwords you have to keep track of?
+PWFEEL,Do you ever feel… b. Anxious about whether the passwords you use are strong and secure?
+PWPREF,"When picking a password, do you generally create one that you think will be…"
+PWMAN,"Do you use a password manager, such as LastPass or iCloud Keychain, to help keep track of your online passwords?"
+PWEXP,"In thinking about how you access your different online accounts, how often do you… a. Reset your passwords"
+PWEXP,"In thinking about how you access your different online accounts, how often do you… b. Save passwords in your browser"
+PWEXP,"In thinking about how you access your different online accounts, how often do you… c. Write your passwords down"
+SPACCESS,"Do you use a passcode, fingerprint, face recognition, or other security feature to unlock your smartphone?"
+UPDATEPREF,How do you typically handle software updates for each of the following? a. Your smartphone operating system
+UPDATEPREF,How do you typically handle software updates for each of the following? b. Specific apps on your smartphone
+PRIVACYREG,How much do you feel you understand the laws and regulations that are currently in place to protect your data privacy?
+GOVREGV1,How much government regulation do you think there should be of what companies can do with their customers’ personal information?
+KIDPRIV1,How concerned are you about each of the following? a. Advertisers using data about what children do online to target ads to them
+KIDPRIV1,How concerned are you about each of the following? b. Online games or gaming apps tracking what children are doing on them
+KIDPRIV1,How concerned are you about each of the following? c. Social media sites and apps knowing personal information about children
+KIDPRIV2,How much responsibility do you think each of the following should have for protecting children’s digital privacy? a. The government
+KIDPRIV2,How much responsibility do you think each of the following should have for protecting children’s digital privacy? b. Technology companies
+KIDPRIV2,How much responsibility do you think each of the following should have for protecting children’s digital privacy? c. Parents
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? a. Obtain footage from cameras people install at their residences, like video doorbells"
+ACCPTLWF1,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? b. Require third parties to turn over users’ private chats, messages or calls"
+ACCPTLWF1,How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? c. Break the passcode on a user’s phone to get access to its contents
+ACCPTLWF1,How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation? d. Use information from cell phone towers to track where someone is
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? a. Obtain footage from cameras people install at their residences, like video doorbells"
+ACCPTLWF2,"How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? b. Require third parties to turn over users’ private chats, messages or calls"
+ACCPTLWF2,How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? c. Break the passcode on a user’s phone to get access to its contents
+ACCPTLWF2,How acceptable do you think it is for law enforcement to do each of the following during a criminal investigation where public safety is at risk? d. Use information from cell phone towers to track where someone is
+AI_HEARD,How much have you heard or read about AI?
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways people would not be comfortable with?"
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways that were not originally intended?"
+AIPRIV2,"As companies use AI to collect and analyze personal details and information, do you think this information will be used in ways that could make people’s lives easier?"
+AIPRIV3,How much do you trust companies to make responsible decisions about how they use AI in their products?
+PARTY,"In politics today, do you consider yourself a:"
+PARTYLN,As of today do you lean more to…

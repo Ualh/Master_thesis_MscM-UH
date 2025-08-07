@@ -1,0 +1,358 @@
+QuestionID,Question,Response,AggregatedPercent
+1,How much do you trust current centralized systems (where companies store and manage your data) to protect your health information?,3,42.4
+1,How much do you trust current centralized systems (where companies store and manage your data) to protect your health information?,2,22.7
+1,How much do you trust current centralized systems (where companies store and manage your data) to protect your health information?,1,16.8
+1,How much do you trust current centralized systems (where companies store and manage your data) to protect your health information?,4,12.6
+1,How much do you trust current centralized systems (where companies store and manage your data) to protect your health information?,5,5.5
+2,How much control do you feel you have over your data? ,2,40.8
+2,How much control do you feel you have over your data? ,1,23.9
+2,How much control do you feel you have over your data? ,3,23.1
+2,How much control do you feel you have over your data? ,4,8.0
+2,How much control do you feel you have over your data? ,5,4.2
+3,How much control do you feel users should have over their own health data?,5,58.0
+3,How much control do you feel users should have over their own health data?,4,26.9
+3,How much control do you feel users should have over their own health data?,3,13.4
+3,How much control do you feel users should have over their own health data?,2,1.3
+3,How much control do you feel users should have over their own health data?,1,0.4
+4,How concerned are you about health data privacy?,4,28.2
+4,How concerned are you about health data privacy?,5,23.9
+4,How concerned are you about health data privacy?,3,23.1
+4,How concerned are you about health data privacy?,2,18.9
+4,How concerned are you about health data privacy?,1,5.9
+5,"Do you or did you use connected health devices (e.g., smartwatch, garmin device, apple device, … fitness app tracker, smart scale, sport wrist band, strava, …)?",Yes,57.6
+5,"Do you or did you use connected health devices (e.g., smartwatch, garmin device, apple device, … fitness app tracker, smart scale, sport wrist band, strava, …)?",No,42.4
+6,"(non-users only) Why don’t you use connected devices? 
+
+select all that apply",Not Applicable,57.6
+6,"(non-users only) Why don’t you use connected devices? 
+
+select all that apply",No need,24.8
+6,"(non-users only) Why don’t you use connected devices? 
+
+select all that apply",No specific reason,3.4
+6,"(non-users only) Why don’t you use connected devices? 
+
+select all that apply","No need, Privacy",2.9
+6,"(non-users only) Why don’t you use connected devices? 
+
+select all that apply",Privacy,2.5
+6,"(non-users only) Why don’t you use connected devices? 
+
+select all that apply","Cost, No need",2.1
+6,"(non-users only) Why don’t you use connected devices? 
+
+select all that apply","Cost, No need, Privacy",2.1
+6,"(non-users only) Why don’t you use connected devices? 
+
+select all that apply",Cost,0.8
+6,"(non-users only) Why don’t you use connected devices? 
+
+select all that apply","Complexity, No need",0.8
+6,"(non-users only) Why don’t you use connected devices? 
+
+select all that apply","Complexity, Privacy",0.8
+6,"(non-users only) Why don’t you use connected devices? 
+
+select all that apply","Complexity, Cost, No need, Privacy",0.4
+6,"(non-users only) Why don’t you use connected devices? 
+
+select all that apply",Complexity,0.4
+6,"(non-users only) Why don’t you use connected devices? 
+
+select all that apply","Cost, Privacy",0.4
+6,"(non-users only) Why don’t you use connected devices? 
+
+select all that apply","Complexity, Cost, Privacy",0.4
+6,"(non-users only) Why don’t you use connected devices? 
+
+select all that apply",Too distracting,0.4
+7,What brand / app / ... do you use ?,Not Applicable,42.4
+7,What brand / app / ... do you use ?,Apple,16.4
+7,What brand / app / ... do you use ?,Garmin,8.8
+7,What brand / app / ... do you use ?,Other device,6.7
+7,What brand / app / ... do you use ?,Fitbit,2.9
+7,What brand / app / ... do you use ?,Health Apps,2.5
+7,What brand / app / ... do you use ?,Xiaomi,2.5
+7,What brand / app / ... do you use ?,"Apple, Samsung",2.5
+7,What brand / app / ... do you use ?,Strava,2.1
+7,What brand / app / ... do you use ?,"Apple, Garmin",1.7
+7,What brand / app / ... do you use ?,Polar,1.7
+7,What brand / app / ... do you use ?,"Garmin, Strava",1.3
+7,What brand / app / ... do you use ?,Huawei,1.3
+7,What brand / app / ... do you use ?,"Apple, Strava",0.8
+7,What brand / app / ... do you use ?,Oura,0.4
+7,What brand / app / ... do you use ?,"Apple, Health Apps",0.4
+7,What brand / app / ... do you use ?,"Fitbit, Strava",0.4
+7,What brand / app / ... do you use ?,"Apple, Garmin, Strava",0.4
+7,What brand / app / ... do you use ?,Coros,0.4
+7,What brand / app / ... do you use ?,"Garmin, Suunto",0.4
+7,What brand / app / ... do you use ?,"Apple, Health Apps, Withings",0.4
+7,What brand / app / ... do you use ?,Withings,0.4
+7,What brand / app / ... do you use ?,"Health Apps, Strava",0.4
+7,What brand / app / ... do you use ?,Suunto,0.4
+7,What brand / app / ... do you use ?,"Apple, Oura",0.4
+7,What brand / app / ... do you use ?,Samsung,0.4
+7,What brand / app / ... do you use ?,"Apple, Fitbit",0.4
+7,What brand / app / ... do you use ?,"Garmin, Health Apps, Strava",0.4
+7,What brand / app / ... do you use ?,"Garmin, Whoop",0.4
+8,(users only) How do you balance health benefits against privacy concerns when using these devices?,Not Applicable,43.3
+8,(users only) How do you balance health benefits against privacy concerns when using these devices?,Equally concerned about both,21.5
+8,(users only) How do you balance health benefits against privacy concerns when using these devices?,Health benefits somewhat outweigh privacy concerns,19.3
+8,(users only) How do you balance health benefits against privacy concerns when using these devices?,Health benefits clearly outweigh privacy concerns,13.3
+8,(users only) How do you balance health benefits against privacy concerns when using these devices?,Privacy concerns clearly outweigh health benefits,1.3
+8,(users only) How do you balance health benefits against privacy concerns when using these devices?,Privacy concerns somewhat outweigh health benefits,0.9
+8,(users only) How do you balance health benefits against privacy concerns when using these devices?,Datenschutzbedenken überwiegen etwas,0.4
+9,(users only) How often do you use your device(s)? ,Not Applicable,42.6
+9,(users only) How often do you use your device(s)? ,Daily,37.6
+9,(users only) How often do you use your device(s)? ,Monthly,9.3
+9,(users only) How often do you use your device(s)? ,Rarely,8.9
+9,(users only) How often do you use your device(s)? ,Annually,1.7
+10,(users only) Have you read your device’s privacy policy? ,Not Applicable,42.6
+10,(users only) Have you read your device’s privacy policy? ,No,38.8
+10,(users only) Have you read your device’s privacy policy? ,Skimmed,14.8
+10,(users only) Have you read your device’s privacy policy? ,Yes,3.8
+11,"Prior to this survey, were you aware of these decentralized data management approaches?","No, not familiar",48.3
+11,"Prior to this survey, were you aware of these decentralized data management approaches?","Yes, somewhat familiar",42.4
+11,"Prior to this survey, were you aware of these decentralized data management approaches?","Yes, very familiar",9.2
+12,"If these systems allowed you to control who accesses your health data and how it's used, would you be interested in using them? ",4,39.5
+12,"If these systems allowed you to control who accesses your health data and how it's used, would you be interested in using them? ",5,26.9
+12,"If these systems allowed you to control who accesses your health data and how it's used, would you be interested in using them? ",3,18.9
+12,"If these systems allowed you to control who accesses your health data and how it's used, would you be interested in using them? ",1,7.6
+12,"If these systems allowed you to control who accesses your health data and how it's used, would you be interested in using them? ",2,7.1
+13,How much trust do you have in systems based on new technologies (like blockchain) to protect your data? ,3,40.8
+13,How much trust do you have in systems based on new technologies (like blockchain) to protect your data? ,4,27.7
+13,How much trust do you have in systems based on new technologies (like blockchain) to protect your data? ,2,18.1
+13,How much trust do you have in systems based on new technologies (like blockchain) to protect your data? ,1,8.8
+13,How much trust do you have in systems based on new technologies (like blockchain) to protect your data? ,5,4.6
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Uncertain security/reliability, Time required to manage my data",10.9
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2",Uncertain security/reliability,10.1
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Complexity/difficulty of use, Time required to manage my data",9.7
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Complexity/difficulty of use, Uncertain security/reliability",8.4
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Uncertain security/reliability, Cost of implementation",7.1
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2",Complexity/difficulty of use,5.9
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2",Time required to manage my data,5.9
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Complexity/difficulty of use, Cost of implementation",4.6
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2",Cost of implementation,4.6
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Cost of implementation, Time required to manage my data",3.4
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Integration with existing devices, Time required to manage my data",3.4
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Cost of implementation, Integration with existing devices",3.4
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Uncertain security/reliability, Integration with existing devices",2.9
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Complexity/difficulty of use, Integration with existing devices",2.9
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2",Integration with existing devices,2.1
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Uncertain security/reliability, Cost of implementation, Integration with existing devices",2.1
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Complexity/difficulty of use, Uncertain security/reliability, Time required to manage my data",2.1
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Uncertain security/reliability, Cost of implementation, Time required to manage my data",2.1
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Complexity/difficulty of use, Uncertain security/reliability, Cost of implementation",1.7
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Complexity/difficulty of use, Cost of implementation, Time required to manage my data",1.7
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Complexity/difficulty of use, Uncertain security/reliability, Cost of implementation, Time required to manage my data",1.3
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Complexity/difficulty of use, Cost of implementation, Integration with existing devices",0.8
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Complexity/difficulty of use, Uncertain security/reliability, Cost of implementation, Integration with existing devices, Time required to manage my data",0.4
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Uncertain security/reliability, Integration with existing devices, Time required to manage my data",0.4
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Complexity/difficulty of use, Uncertain security/reliability, Integration with existing devices",0.4
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2",Not Applicable,0.4
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Cost of implementation, Integration with existing devices, Time required to manage my data",0.4
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Complexity/difficulty of use, Integration with existing devices, Time required to manage my data",0.4
+14,"What would most concern you about adopting these new data management approaches? 
+
+Please, select up to 2","Complexity/difficulty of use, Uncertain security/reliability, Cost of implementation, Integration with existing devices",0.4
+15,How willing would you be to invest extra time or pay an additional fee to use a decentralized data management solution (such as a blockchain-based system or personal data vault) that gives you full control over your wearable health data?,3,30.7
+15,How willing would you be to invest extra time or pay an additional fee to use a decentralized data management solution (such as a blockchain-based system or personal data vault) that gives you full control over your wearable health data?,2,29.8
+15,How willing would you be to invest extra time or pay an additional fee to use a decentralized data management solution (such as a blockchain-based system or personal data vault) that gives you full control over your wearable health data?,4,21.4
+15,How willing would you be to invest extra time or pay an additional fee to use a decentralized data management solution (such as a blockchain-based system or personal data vault) that gives you full control over your wearable health data?,1,14.7
+15,How willing would you be to invest extra time or pay an additional fee to use a decentralized data management solution (such as a blockchain-based system or personal data vault) that gives you full control over your wearable health data?,5,3.4
+16,Should users own their wearable data?,1,51.7
+16,Should users own their wearable data?,5,18.5
+16,Should users own their wearable data?,2,11.8
+16,Should users own their wearable data?,4,9.7
+16,Should users own their wearable data?,3,8.4
+17,Are you willing to share data for health insights?,Yes,73.1
+17,Are you willing to share data for health insights?,No,26.9
+18,"(If No) Why not? 
+
+Select all that apply",Not Applicable,73.1
+18,"(If No) Why not? 
+
+Select all that apply","Privacy loss, Breach risk, No control, Misuse",7.6
+18,"(If No) Why not? 
+
+Select all that apply",Privacy loss,2.9
+18,"(If No) Why not? 
+
+Select all that apply","No control, Misuse",2.1
+18,"(If No) Why not? 
+
+Select all that apply","Privacy loss, No control, Misuse",2.1
+18,"(If No) Why not? 
+
+Select all that apply",Misuse,1.7
+18,"(If No) Why not? 
+
+Select all that apply","Breach risk, Misuse",1.3
+18,"(If No) Why not? 
+
+Select all that apply",No specific reason,1.3
+18,"(If No) Why not? 
+
+Select all that apply","Privacy loss, No control",1.3
+18,"(If No) Why not? 
+
+Select all that apply","Privacy loss, Breach risk, Misuse",1.3
+18,"(If No) Why not? 
+
+Select all that apply","Privacy loss, Breach risk, No control",1.3
+18,"(If No) Why not? 
+
+Select all that apply","Privacy loss, Misuse",1.3
+18,"(If No) Why not? 
+
+Select all that apply","Breach risk, No control, Misuse",0.8
+18,"(If No) Why not? 
+
+Select all that apply",No control,0.8
+18,"(If No) Why not? 
+
+Select all that apply",Breach risk,0.8
+18,"(If No) Why not? 
+
+Select all that apply","Breach risk, No control",0.4
+19,Who do you believe should be primarily responsible for ensuring health data is used ethically? ,Shared responsibility,34.0
+19,Who do you believe should be primarily responsible for ensuring health data is used ethically? ,"Device manufacturers/companies (Garmin, Apple, Google, etc.)",27.7
+19,Who do you believe should be primarily responsible for ensuring health data is used ethically? ,Individual users (my data my responsibility),20.2
+19,Who do you believe should be primarily responsible for ensuring health data is used ethically? ,"Government regulators (US, China, EU, etc.)",17.2
+19,Who do you believe should be primarily responsible for ensuring health data is used ethically? ,Don't know,0.8
+20,Do you think those new methods to manage personal data will become mainstream in 5–10 years?,4,32.8
+20,Do you think those new methods to manage personal data will become mainstream in 5–10 years?,3,27.7
+20,Do you think those new methods to manage personal data will become mainstream in 5–10 years?,5,24.8
+20,Do you think those new methods to manage personal data will become mainstream in 5–10 years?,2,10.9
+20,Do you think those new methods to manage personal data will become mainstream in 5–10 years?,1,3.8
+21,Do you have any other thoughts on data privacy or decentralized solutions?,No comment,95.4
+21,Do you have any other thoughts on data privacy or decentralized solutions?,I think big business and their lobbying have a lot of power and it will be difficult to implement a system to protect everyone's data.,0.4
+21,Do you have any other thoughts on data privacy or decentralized solutions?,Future organizations must be completely transparent with users about how their data is stored and used to minimize risk.,0.4
+21,Do you have any other thoughts on data privacy or decentralized solutions?,"I think an open-source and self-hosted solution is better than trusting a third party, for example a tool like Nextcloud.",0.4
+21,Do you have any other thoughts on data privacy or decentralized solutions?,I assume that all my health data recorded on a device no longer belongs to me.,0.4
+21,Do you have any other thoughts on data privacy or decentralized solutions?,I think blockchain is revolutionary but few people know about it or are informed.,0.4
+21,Do you have any other thoughts on data privacy or decentralized solutions?,The primary confidentiality is that of financial transactions. Hence Monero.,0.4
+21,Do you have any other thoughts on data privacy or decentralized solutions?,Please don't forget about menstruation trackers - these are apps used by millions with sensitive health data.,0.4
+21,Do you have any other thoughts on data privacy or decentralized solutions?,I cannot trust data storage by Google and Meta.,0.4
+21,Do you have any other thoughts on data privacy or decentralized solutions?,It's a good idea to create something like this to protect your health data.,0.4
+21,Do you have any other thoughts on data privacy or decentralized solutions?,"For people with dementia, adapt them in a friendly way to help with medication intake.",0.4
+21,Do you have any other thoughts on data privacy or decentralized solutions?,"even if you add layers and layers of security, it will always be a way to hack.",0.4
+22,Age group,25-34,52.9
+22,Age group,18-24,14.3
+22,Age group,55-64,10.9
+22,Age group,45-54,10.1
+22,Age group,35-44,7.1
+22,Age group,65+,3.8
+22,Age group,<=17,0.8
+23,Education level,Bachelor's degree or equivalent,42.4
+23,Education level,Master's degree or equivalent,30.3
+23,Education level,Vocational/Technical training or certificate,19.7
+23,Education level,Upper Secondary / High School or equivalent,5.5
+23,Education level,Doctorate (PhD) or higher,2.1
+24,Occupation,Employed,55.9
+24,Occupation,Student,26.5
+24,Occupation,Self-employed,11.8
+24,Occupation,Retired,4.2
+24,Occupation,Unemployed,1.7
+25,country,Switzerland,65.5
+25,country,Mexico,18.9
+25,country,France,4.2
+25,country,Canada,1.7
+25,country,United States,1.3
+25,country,Argentina,1.3
+25,country,Portugal,1.3
+25,country,Italy,0.8
+25,country,Denmark,0.4
+25,country,Serbia,0.4
+25,country,Colombia,0.4
+25,country,Angola,0.4
+25,country,Peru,0.4
+25,country,Moldova,0.4
+25,country,Korea,0.4
+25,country,Tunisia,0.4
+25,country,United Kingdom,0.4
+25,country,Poland,0.4
+25,country,Brazil,0.4
+25,country,Albania,0.4
+26,email for sending the summary,No updates requested,89.5
+26,email for sending the summary,joffrey2000@gmail.com,0.4
+26,email for sending the summary,l.benoist6@gmail.com,0.4
+26,email for sending the summary,lea.mrcll14@gmail.com,0.4
+26,email for sending the summary,szurini@hotmail.com,0.4
+26,email for sending the summary,mo.roberttissot@gmail.com,0.4
+26,email for sending the summary,Bernedepierre.pro@gmail.com,0.4
+26,email for sending the summary,chloe.tournelle@icloud.com,0.4
+26,email for sending the summary,Jacobmust@hotmail.com,0.4
+26,email for sending the summary,sebastienromero1994@gmail.com,0.4
+26,email for sending the summary,mario.santos-silva@swisscoding.com,0.4
+26,email for sending the summary,m@swisscoding.com,0.4
+26,email for sending the summary,chrystelle.cairon@swisscoding.com,0.4
+26,email for sending the summary,krystyna.huber@hotmail.com,0.4
+26,email for sending the summary,mn.rolle@gmail.com,0.4
+26,email for sending the summary,jannik-kunz@bluewin.ch,0.4
+26,email for sending the summary,Consaludysabor@gmail.com,0.4
+26,email for sending the summary,dracristinaharo@hotmail.com,0.4
+26,email for sending the summary,Jlandin65@gmail.com,0.4
+26,email for sending the summary,eddy7x.gtz@gmail.com,0.4
+26,email for sending the summary,polina.kotovich@unil.ch,0.4
+26,email for sending the summary,leragazzedellolimpo@yahoo.com,0.4
+26,email for sending the summary,ariannamichiko@gmail.com,0.4
+26,email for sending the summary,Manuel.Saez@unil.ch,0.4
+26,email for sending the summary,averkinjan@gmail.com,0.4
+26,email for sending the summary,George.kurian97@gmail.com,0.4

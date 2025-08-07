@@ -1,0 +1,141 @@
+% This is a simple report or thesis template for the Chair of Planning of Landscape and Urban Systems at ETH Zurich,
+% created by Noel Treffinger (ntreffinger@ethz.ch) on 14.12.2024
+\documentclass[12pt,a4paper]{article}
+% \documentclass defines the type of document to be created.
+% 'article' is suitable for shorter documents like articles, reports, and theses.
+\usepackage{mathptmx} % Modern, readable font
+% Options:
+%   - 12pt: Sets the base font size to 12 points.
+%   - a4paper: Sets the paper size to A4.
+% ===============================================================
+% Load Custom Style Package
+% ===============================================================
+\usepackage{plusstyle}
+% This custom package ('plusstyle.sty') includes additional styling, formatting, and configuration settings
+% specific to the Chair of Planning of Landscape and Urban Systems at ETH Zurich.
+% It helps maintain consistent formatting across documents.
+
+% ===============================================================
+% Load BibLaTeX for Bibliography Management
+% ===============================================================
+\usepackage[
+  backend=biber,           % Specifies 'biber' as the backend for processing the bibliography.
+  style=authoryear,        % Uses the author-year citation style.
+  maxcitenames=1,          % Limits citations to display only the first author's name before 'et al.'.
+  uniquelist=false,        % Prevents adding extra letters to repeated author lists in the bibliography.
+  dashed=false,            % Disables the use of dashed lines for repeated author names.
+  labelalpha               % Uses an alphanumeric label for citations (e.g., [ABC20]).
+]{biblatex}
+% BibLaTeX offers advanced bibliography management with extensive customization options.
+
+\setlength{\bibitemsep}{0.3em}
+% Sets the vertical space between items in the bibliography to 0.3em for improved readability.
+
+\renewcommand{\cite}{\textcite}
+% Redefines the \cite command to \textcite, which formats citations as textual references.
+% Example: "Smith (2020)" instead of "(Smith, 2020)".
+
+\addbibresource{bib/references.bib}
+% Specifies the bibliography file 'references.bib' located in the 'bib' directory.
+% This file should contain all your reference entries in BibTeX format.
+
+\setcounter{biburllcpenalty}{7000}
+\setcounter{biburlucpenalty}{8000}
+% Adjusts the penalties for breaking URLs in the bibliography.
+% Higher values reduce the likelihood of breaking URLs at certain points, enhancing URL display.
+
+%===========================================================================
+% The preamble ends here. The main document starts after \begin{document}.
+%===========================================================================
+
+\begin{document}
+
+    % Title Page
+    \input{titlepage}
+    % Inserts the content of 'titlepage.tex' here, which should define the layout and information for the title page.
+
+    % Roman Page Numbering for Front Matter
+    \pagenumbering{roman}
+    % Changes page numbering to lowercase Roman numerals (i, ii, iii, ...), typically used for front matter.
+
+    \setcounter{page}{1}
+    % Sets the current page number to 1. This is useful to reset page numbering for front matter.
+
+    % Abstract
+    \section*{Abstract}
+    The rise of wearable health devices has increased data collection. At the same time we live in a society that converge towards a Dataistic model that gives more and more power to data. This is concerning. As data becomes the new gold, users find themselves disempowered in the current centralized model. This thesis investigated how wearable users evaluate decentralized data technologies as potential solutions, focusing on the complex mix between privacy concerns, control preferences, and adoption willingness. 
+    We collected data from 240 respondents across four languages through an online survey, analyzing results through clustering, regression, and factor analysis, while benchmarking against external data. The findings revealed two distinct user profiles: "Pragmatic Sharers" and "Skeptics." An interesting gap emerged between perceived control (65\% reporting little to none) and desired control (85\% wanting high or complete) which suggests a clear signal of centralized model failure. 
+    The most powerful insight was Control preference, not privacy concern, that drives willingness to adopt decentralized solutions. This reframes the traditional privacy calculus. While privacy concerns act as dealbreakers within centralized systems, the promise of tangible control can channel those same concerns toward constructive interest in alternatives. However, significant barriers persist: nearly half of respondents remain unfamiliar with decentralized technologies, and security concerns, time burden, and complexity further complicate adoption.
+    This research contributes a dual-process model of user decision-making where different psychological mechanisms govern defensive versus aspirational behaviors. The findings suggest developers should prioritize visible, tangible control mechanisms over abstract privacy promises as you can't meaningfully protect what you don't actively control.
+    \clearpage
+
+    % \clearpage ensures that the following content starts on a new page.
+
+    % Acknowledgments
+    \section*{Acknowledgments}
+    I would like to thank all the participants who took the time to complete the survey.
+    \clearpage
+    % The acknowledgments section also contains humorous placeholder text.
+    % \clearpage ensures that the following content starts on a new page.
+
+    % Table of Contents
+    \tableofcontents
+    \clearpage
+    % Automatically generates the table of contents based on the sections, subsections, etc., in the document.
+    % \clearpage ensures that the following content starts on a new page.
+
+    % List of Figures
+    \listoffigures
+    \addcontentsline{toc}{section}{List of Figures}
+    \clearpage
+    % Generates a list of all figures included in the document.
+    % Adds an entry titled "List of Figures" to the table of contents.
+    % \clearpage ensures that the following content starts on a new page.
+
+    % List of Tables
+    \listoftables
+    \addcontentsline{toc}{section}{List of Tables}
+    \clearpage
+    % Generates a list of all tables included in the document.
+    % Adds an entry titled "List of Tables" to the table of contents.
+    % \clearpage ensures that the following content starts on a new page.
+
+    % Abbreviations
+    \include{abbreviations}
+    \clearpage
+    % Inserts the content of 'abbreviations.tex' here, which should contain a list of abbreviations used in the document.
+    % \clearpage ensures that the following content starts on a new page.
+
+    % Start Arabic Page Numbering
+    \pagenumbering{arabic}
+    % Changes page numbering to Arabic numerals (1, 2, 3, ...), typically used for the main body of the document.
+
+    \pagestyle{main}
+    % Sets the page style to 'main', which is defined in 'plusstyle.sty'.
+    % This usually includes customized headers and footers.
+
+    % Chapters
+    \include{chapters/chapter1}
+    % Includes the content of 'chapter1.tex' located in the 'chapters' directory.
+    % Uncomment and add more \include{chapters/chapterX} lines as needed for additional chapters.
+    % \include{chapters/chapter2}
+    % ... Add more chapters as needed
+
+    % Bibliography
+    \pagestyle{plain}
+    % Changes the page style to 'plain' for the bibliography section, typically removing headers and using simple footers.
+
+    \clearpage
+    \printbibliography
+    % Prints the bibliography based on the entries in 'references.bib' and the settings defined in the preamble.
+
+    \addcontentsline{toc}{section}{References}
+    % Adds an entry titled "References" to the table of contents.
+
+    \clearpage
+
+    % Appendices
+    \include{appendix}
+    % Includes the content of 'appendix.tex' which should contain any supplementary material or appendices.
+
+\end{document}
