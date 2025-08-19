@@ -3,122 +3,123 @@
 \contentsline {section}{List of Tables}{vii}{section*.5}%
 \contentsline {section}{Abbreviations}{viii}{section*.6}%
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {paragraph}{Positioning of Dataism.}{2}{section*.7}%
 \contentsline {section}{\numberline {2}Literature Review}{2}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Ethical Responsibilities and Deontological Perspectives}{2}{subsection.2.1}%
 \contentsline {subsubsection}{\numberline {2.1.1}Dataism as a New Paradigm and Its Impact on Agency}{2}{subsubsection.2.1.1}%
 \contentsline {subsubsection}{\numberline {2.1.2}Privacy Risks and Surveillance in Wearable Technologies}{3}{subsubsection.2.1.2}%
 \contentsline {subsubsection}{\numberline {2.1.3}Ethical and Regulatory Frameworks for Data Governance}{4}{subsubsection.2.1.3}%
 \contentsline {subsubsection}{\numberline {2.1.4}Technical and Practical Challenges: Quality, Interoperability, and Consent}{5}{subsubsection.2.1.4}%
-\contentsline {subsection}{\numberline {2.2}Digital Sovereignty and Consumer Empowerment}{6}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Data Ownership \& User Control}{6}{subsubsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2}Digital Sovereignty and Consumer Empowerment}{7}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Data Ownership \& User Control}{7}{subsubsection.2.2.1}%
 \contentsline {subsubsection}{\numberline {2.2.2}Transparency \& Informed Consent}{8}{subsubsection.2.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.3}Technical Privacy \& Security Safeguards}{9}{subsubsection.2.2.3}%
-\contentsline {subsubsection}{\numberline {2.2.4}Regulatory Frameworks \& Accountability}{10}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.4}Regulatory Frameworks \& Accountability}{11}{subsubsection.2.2.4}%
 \contentsline {subsection}{\numberline {2.3}Behavioral Science and User Decision-Making}{12}{subsection.2.3}%
 \contentsline {subsubsection}{\numberline {2.3.1}Internal Calculus}{12}{subsubsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.2}Extermal Pressures (Trust and Transparency)}{13}{subsubsection.2.3.2}%
-\contentsline {subsubsection}{\numberline {2.3.3}Inherent User Traits}{15}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.2}External Pressures (Trust and Transparency)}{13}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Inherent User Traits}{14}{subsubsection.2.3.3}%
 \contentsline {subsubsection}{\numberline {2.3.4}Privacy Management Strategies and User Education}{16}{subsubsection.2.3.4}%
 \contentsline {subsection}{\numberline {2.4}Innovative Technologies and Future Directions}{17}{subsection.2.4}%
-\contentsline {subsubsection}{\numberline {2.4.1}Decentralized Data Management: Blockchain, Personal Data Vaults, and User Empowerment}{18}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.1}Decentralized Data Management: Blockchain, Personal Data Vaults, and User Empowerment}{17}{subsubsection.2.4.1}%
 \contentsline {subsubsection}{\numberline {2.4.2}Privacy-Preserving Analytics: Federated Learning and AI Integration}{19}{subsubsection.2.4.2}%
-\contentsline {subsubsection}{\numberline {2.4.3}Incentivized Data Sharing and New Economic Models}{21}{subsubsection.2.4.3}%
-\contentsline {subsubsection}{\numberline {2.4.4}Technical, Usability, and Adoption Challenges for Future Solutions}{23}{subsubsection.2.4.4}%
-\contentsline {section}{\numberline {3}Research Questions}{24}{section.3}%
-\contentsline {section}{\numberline {4}Methodology}{25}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Data Sources}{25}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Data Collection}{26}{subsection.4.2}%
-\contentsline {paragraph}{Survey Questions}{26}{section*.8}%
-\contentsline {subsection}{\numberline {4.3}Data Analysis}{28}{subsection.4.3}%
-\contentsline {subsubsection}{\numberline {4.3.1}Introduction to Data Analysis}{28}{subsubsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.2}Feature Engineering}{28}{subsubsection.4.3.2}%
-\contentsline {subsubsection}{\numberline {4.3.3}Segmentation clusters}{29}{subsubsection.4.3.3}%
-\contentsline {subsubsection}{\numberline {4.3.4}Correlation Analysis}{30}{subsubsection.4.3.4}%
-\contentsline {subsubsection}{\numberline {4.3.5}Regression Analysis}{30}{subsubsection.4.3.5}%
-\contentsline {subsubsection}{\numberline {4.3.6}Subgroup Comparisons}{31}{subsubsection.4.3.6}%
-\contentsline {subsubsection}{\numberline {4.3.7}Factor Analysis}{32}{subsubsection.4.3.7}%
-\contentsline {subsubsection}{\numberline {4.3.8}Structural Equation Modeling (SEM)}{32}{subsubsection.4.3.8}%
-\contentsline {section}{\numberline {5}Results}{33}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Introduction to Results}{33}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Sample Characteristics and Data Quality}{34}{subsection.5.2}%
-\contentsline {subsubsection}{\numberline {5.2.1}Demographic Overview}{34}{subsubsection.5.2.1}%
-\contentsline {subsubsection}{\numberline {5.2.2}Key Features}{34}{subsubsection.5.2.2}%
-\contentsline {subsubsection}{\numberline {5.2.3}Segmentation}{35}{subsubsection.5.2.3}%
-\contentsline {paragraph}{Cluster 1: Pragmatic Sharers (n=179)}{35}{section*.12}%
-\contentsline {paragraph}{Cluster 2: Skepticals (n=59)}{36}{section*.13}%
-\contentsline {subsubsection}{\numberline {5.2.4}Qualitative Insights}{36}{subsubsection.5.2.4}%
-\contentsline {subsection}{\numberline {5.3}Axis 1: Ethical Responsibilities and Deontological Perspectives}{37}{subsection.5.3}%
-\contentsline {subsubsection}{\numberline {5.3.1}Privacy Concern}{37}{subsubsection.5.3.1}%
-\contentsline {subsubsection}{\numberline {5.3.2}Trust}{39}{subsubsection.5.3.2}%
-\contentsline {paragraph}{Regression}{39}{section*.19}%
-\contentsline {paragraph}{Trust in Data Handlers: Survey vs. Pew}{40}{section*.20}%
-\contentsline {subsubsection}{\numberline {5.3.3}Responsiblity}{41}{subsubsection.5.3.3}%
-\contentsline {subsection}{\numberline {5.4}Axis 2: Digital Sovereignty and Consumer Empowerment}{42}{subsection.5.4}%
-\contentsline {subsubsection}{\numberline {5.4.1}Perceived Control Over Data}{42}{subsubsection.5.4.1}%
-\contentsline {subsubsection}{\numberline {5.4.2}Perceived Control: Survey vs. Pew}{43}{subsubsection.5.4.2}%
-\contentsline {subsubsection}{\numberline {5.4.3}Desired Control Over Data}{44}{subsubsection.5.4.3}%
-\contentsline {subsubsection}{\numberline {5.4.4}Belief in Data Ownership}{45}{subsubsection.5.4.4}%
+\contentsline {subsubsection}{\numberline {2.4.3}Incentivized Data Sharing and New Economic Models}{20}{subsubsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.4}Technical, Usability, and Adoption Challenges for Future Solutions}{21}{subsubsection.2.4.4}%
+\contentsline {section}{\numberline {3}Research Questions}{23}{section.3}%
+\contentsline {section}{\numberline {4}Methodology}{24}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Data Sources}{24}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Data Collection}{25}{subsection.4.2}%
+\contentsline {paragraph}{Survey Questions}{25}{section*.9}%
+\contentsline {subsection}{\numberline {4.3}Data Analysis}{27}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Introduction to Data Analysis}{27}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Feature Engineering}{27}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}Segmentation clusters}{28}{subsubsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.4}Correlation Analysis}{28}{subsubsection.4.3.4}%
+\contentsline {subsubsection}{\numberline {4.3.5}Regression Analysis}{29}{subsubsection.4.3.5}%
+\contentsline {subsubsection}{\numberline {4.3.6}Subgroup Comparisons}{30}{subsubsection.4.3.6}%
+\contentsline {subsubsection}{\numberline {4.3.7}Factor Analysis}{30}{subsubsection.4.3.7}%
+\contentsline {subsubsection}{\numberline {4.3.8}Structural Equation Modeling (SEM)}{31}{subsubsection.4.3.8}%
+\contentsline {section}{\numberline {5}Results}{32}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Introduction to Results}{32}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Sample Characteristics and Data Quality}{32}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Demographic Overview}{32}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Key Features}{33}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}Segmentation}{33}{subsubsection.5.2.3}%
+\contentsline {paragraph}{Cluster 1: Pragmatic Sharers (n=179)}{34}{section*.13}%
+\contentsline {paragraph}{Cluster 2: Skeptics (n=59)}{34}{section*.14}%
+\contentsline {subsubsection}{\numberline {5.2.4}Qualitative Insights}{35}{subsubsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.3}Axis 1: Ethical Responsibilities and Deontological Perspectives}{36}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Privacy Concern}{36}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}Trust}{37}{subsubsection.5.3.2}%
+\contentsline {paragraph}{Regression}{38}{section*.20}%
+\contentsline {paragraph}{Trust in Data Handlers: Survey vs. Pew}{39}{section*.21}%
+\contentsline {subsubsection}{\numberline {5.3.3}Responsibility}{40}{subsubsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.4}Axis 2: Digital Sovereignty and Consumer Empowerment}{41}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Perceived Control Over Data}{41}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}Perceived Control: Survey vs. Pew}{42}{subsubsection.5.4.2}%
+\contentsline {subsubsection}{\numberline {5.4.3}Desired Control Over Data}{43}{subsubsection.5.4.3}%
+\contentsline {subsubsection}{\numberline {5.4.4}Belief in Data Ownership}{44}{subsubsection.5.4.4}%
 \contentsline {subsection}{\numberline {5.5}Axis 3: Behavioral Science and User Decision-Making}{45}{subsection.5.5}%
 \contentsline {subsubsection}{\numberline {5.5.1}Willingness to Share Data}{45}{subsubsection.5.5.1}%
-\contentsline {paragraph}{Barriers to Sharing}{46}{section*.28}%
-\contentsline {paragraph}{Regression}{47}{section*.30}%
+\contentsline {paragraph}{Barriers to Sharing}{46}{section*.29}%
+\contentsline {paragraph}{Regression}{46}{section*.31}%
 \contentsline {subsubsection}{\numberline {5.5.2}Willingness to Adopt}{47}{subsubsection.5.5.2}%
-\contentsline {paragraph}{Regression}{48}{section*.32}%
+\contentsline {paragraph}{Regression}{48}{section*.33}%
 \contentsline {subsubsection}{\numberline {5.5.3}Privacy Policy Engagement}{49}{subsubsection.5.5.3}%
-\contentsline {paragraph}{Privacy Policy Engagement: Survey vs. Pew}{49}{section*.34}%
+\contentsline {paragraph}{Privacy Policy Engagement: Survey vs. Pew}{50}{section*.35}%
 \contentsline {subsubsection}{\numberline {5.5.4}Behavioral Trade-offs: Health vs. Privacy}{50}{subsubsection.5.5.4}%
 \contentsline {subsubsection}{\numberline {5.5.5}Device Usage Patterns}{51}{subsubsection.5.5.5}%
-\contentsline {paragraph}{User/Non-User Split}{51}{section*.37}%
-\contentsline {paragraph}{Frequency of Device Usage}{51}{section*.38}%
-\contentsline {paragraph}{Brands}{52}{section*.40}%
-\contentsline {subsection}{\numberline {5.6}Axis 4: Innovative Technologies and Future Directions}{53}{subsection.5.6}%
-\contentsline {subsubsection}{\numberline {5.6.1}Awareness of Decentralized Technologies}{53}{subsubsection.5.6.1}%
+\contentsline {paragraph}{User/Non-User Split}{51}{section*.38}%
+\contentsline {paragraph}{Frequency of Device Usage}{52}{section*.39}%
+\contentsline {paragraph}{Brands}{53}{section*.41}%
+\contentsline {subsection}{\numberline {5.6}Axis 4: Innovative Technologies and Future Directions}{54}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {5.6.1}Awareness of Decentralized Technologies}{54}{subsubsection.5.6.1}%
 \contentsline {subsubsection}{\numberline {5.6.2}Trust in New Technologies}{54}{subsubsection.5.6.2}%
-\contentsline {subsubsection}{\numberline {5.6.3}Trust in New Technologies: Survey vs. Pew}{54}{subsubsection.5.6.3}%
-\contentsline {paragraph}{Trust in New Technologies: Survey vs. Pew}{54}{section*.43}%
-\contentsline {subsubsection}{\numberline {5.6.4}Willingness to Pay or Invest}{55}{subsubsection.5.6.4}%
-\contentsline {subsubsection}{\numberline {5.6.5}Expectations for Mainstream Adoption}{56}{subsubsection.5.6.5}%
-\contentsline {subsubsection}{\numberline {5.6.6}Barriers to Adoption}{57}{subsubsection.5.6.6}%
-\contentsline {subsection}{\numberline {5.7}Advanced Analysis}{58}{subsection.5.7}%
-\contentsline {subsubsection}{\numberline {5.7.1}Factor Analysis and Principal Component Analysis}{58}{subsubsection.5.7.1}%
-\contentsline {paragraph}{Factor Extraction and Loadings}{58}{section*.48}%
-\contentsline {paragraph}{Principal Component Analysis and Dimensional Independence}{59}{section*.50}%
-\contentsline {subsubsection}{\numberline {5.7.2}Structural Equation Modeling}{60}{subsubsection.5.7.2}%
-\contentsline {paragraph}{Empirical Findings: Structural Model}{60}{section*.55}%
-\contentsline {section}{\numberline {6}Discussion}{61}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Synthesizing the Empirical Findings: A Portrait of the Contemporary Wearable User}{61}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Answering the Research Questions}{63}{subsection.6.2}%
-\contentsline {subsubsection}{\numberline {6.2.1}Addressing the Primary Research Question: Evaluating Decentralized Solutions}{63}{subsubsection.6.2.1}%
-\contentsline {paragraph}{Privacy Concern}{63}{section*.56}%
-\contentsline {paragraph}{Perceived Control Over Data}{63}{section*.57}%
-\contentsline {paragraph}{Willingness to Adopt}{63}{section*.58}%
-\contentsline {subsubsection}{\numberline {6.2.2}Addressing SRQ1: Centralized vs. Decentralized Models - A Comparative Analysis}{64}{subsubsection.6.2.2}%
-\contentsline {paragraph}{Trust in Centralized Systems}{64}{section*.59}%
-\contentsline {paragraph}{Perceived Control Over Data}{64}{section*.60}%
-\contentsline {paragraph}{Desired Control Over Data}{64}{section*.61}%
-\contentsline {paragraph}{Willingness to Adopt}{64}{section*.62}%
-\contentsline {subsubsection}{\numberline {6.2.3}Addressing SRQ2: Drivers and Barriers to Adopting Decentralized Solutions}{65}{subsubsection.6.2.3}%
-\contentsline {paragraph}{Drivers for Adoption}{65}{section*.63}%
-\contentsline {paragraph}{Barriers to Adoption}{65}{section*.64}%
-\contentsline {subsubsection}{\numberline {6.2.4}Addressing SRQ3: The Role of Demographic and Behavioral Segmentation}{66}{subsubsection.6.2.4}%
-\contentsline {subsubsection}{\numberline {6.2.5}Addressing SRQ4: Privacy Paradox}{67}{subsubsection.6.2.5}%
-\contentsline {paragraph}{Privacy Policy Engagement and the Privacy Paradox}{67}{section*.65}%
-\contentsline {paragraph}{Willingness to Share Data}{67}{section*.66}%
-\contentsline {paragraph}{Health Privacy Tradeoff}{67}{section*.67}%
-\contentsline {subsection}{\numberline {6.3}Broader Implications of the Findings}{68}{subsection.6.3}%
-\contentsline {subsubsection}{\numberline {6.3.1}Theoretical Implications}{68}{subsubsection.6.3.1}%
-\contentsline {subsubsection}{\numberline {6.3.2}Translating Research into Business Strategy}{70}{subsubsection.6.3.2}%
-\contentsline {subsection}{\numberline {6.4}Limitations and Future Research Directions}{71}{subsection.6.4}%
-\contentsline {subsubsection}{\numberline {6.4.1}Limitations of the Current Study}{71}{subsubsection.6.4.1}%
-\contentsline {subsubsection}{\numberline {6.4.2}Recommendations for Future Research}{72}{subsubsection.6.4.2}%
-\contentsline {paragraph}{Longitudinal Studies to Track Evolving Attitudes}{72}{section*.68}%
-\contentsline {paragraph}{Experimental Testing of Control-Centric Interfaces}{72}{section*.69}%
-\contentsline {paragraph}{Mixed-Methods Exploration of User Segments}{72}{section*.70}%
-\contentsline {paragraph}{Investigation of Incentive Structures}{73}{section*.71}%
-\contentsline {paragraph}{Cross-Cultural Comparative Analysis}{73}{section*.72}%
-\contentsline {paragraph}{Methodological Improvements}{73}{section*.73}%
-\contentsline {section}{\numberline {7}Conclusion}{74}{section.7}%
-\contentsline {section}{References}{78}{section*.74}%
-\contentsline {section}{\numberline {A}Appendix}{79}{appendix.A}%
-\contentsline {subsection}{\numberline {A.1}AI Use Declaration}{79}{subsection.A.1}%
-\contentsline {subsection}{\numberline {A.2}GitHub Repository}{79}{subsection.A.2}%
+\contentsline {subsubsection}{\numberline {5.6.3}Trust in New Technologies: Survey vs. Pew}{55}{subsubsection.5.6.3}%
+\contentsline {paragraph}{Trust in New Technologies: Survey vs. Pew}{55}{section*.44}%
+\contentsline {subsubsection}{\numberline {5.6.4}Willingness to Pay or Invest}{56}{subsubsection.5.6.4}%
+\contentsline {subsubsection}{\numberline {5.6.5}Expectations for Mainstream Adoption}{57}{subsubsection.5.6.5}%
+\contentsline {subsubsection}{\numberline {5.6.6}Barriers to Adoption}{58}{subsubsection.5.6.6}%
+\contentsline {subsection}{\numberline {5.7}Advanced Analysis}{59}{subsection.5.7}%
+\contentsline {subsubsection}{\numberline {5.7.1}Factor Analysis and Principal Component Analysis}{59}{subsubsection.5.7.1}%
+\contentsline {paragraph}{Factor Extraction and Loadings}{59}{section*.49}%
+\contentsline {paragraph}{Principal Component Analysis and Dimensional Independence}{60}{figure.caption.54}%
+\contentsline {subsubsection}{\numberline {5.7.2}Structural Equation Modeling}{62}{subsubsection.5.7.2}%
+\contentsline {paragraph}{Empirical Findings: Structural Model}{62}{section*.56}%
+\contentsline {section}{\numberline {6}Discussion}{63}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Synthesizing the Empirical Findings: A Portrait of the Contemporary Wearable User}{63}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Answering the Research Questions}{64}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Addressing the Primary Research Question: Evaluating Decentralized Solutions}{64}{subsubsection.6.2.1}%
+\contentsline {paragraph}{Privacy Concern}{64}{section*.57}%
+\contentsline {paragraph}{Perceived Control Over Data}{64}{section*.58}%
+\contentsline {paragraph}{Willingness to Adopt}{65}{section*.59}%
+\contentsline {subsubsection}{\numberline {6.2.2}Addressing SRQ1: Centralized vs. Decentralized Models - A Comparative Analysis}{65}{subsubsection.6.2.2}%
+\contentsline {paragraph}{Trust in Centralized Systems}{65}{section*.60}%
+\contentsline {paragraph}{Perceived Control Over Data}{65}{section*.61}%
+\contentsline {paragraph}{Desired Control Over Data}{66}{section*.62}%
+\contentsline {paragraph}{Willingness to Adopt}{66}{section*.63}%
+\contentsline {subsubsection}{\numberline {6.2.3}Addressing SRQ2: Attitudinal and Structural Drivers and Barriers of Adoption}{66}{subsubsection.6.2.3}%
+\contentsline {paragraph}{Drivers for Adoption}{66}{section*.64}%
+\contentsline {paragraph}{Barriers to Adoption}{67}{section*.65}%
+\contentsline {subsubsection}{\numberline {6.2.4}Addressing SRQ3: The Role of Demographic and Behavioral Segmentation}{67}{subsubsection.6.2.4}%
+\contentsline {subsubsection}{\numberline {6.2.5}Addressing SRQ4: Privacy Paradox and Attitudinal Discrepancies}{68}{subsubsection.6.2.5}%
+\contentsline {paragraph}{Privacy Policy Engagement and the Privacy Paradox}{68}{section*.66}%
+\contentsline {paragraph}{Willingness to Share Data}{68}{section*.67}%
+\contentsline {paragraph}{Health Privacy Tradeoff}{69}{section*.68}%
+\contentsline {subsection}{\numberline {6.3}Broader Implications of the Findings}{69}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}Theoretical Implications}{69}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}Translating Research into Business Strategy}{72}{subsubsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.4}Limitations and Future Research Directions}{72}{subsection.6.4}%
+\contentsline {subsubsection}{\numberline {6.4.1}Limitations of the Current Study}{72}{subsubsection.6.4.1}%
+\contentsline {subsubsection}{\numberline {6.4.2}Recommendations for Future Research}{73}{subsubsection.6.4.2}%
+\contentsline {paragraph}{Longitudinal Studies to Track Evolving Attitudes}{73}{section*.69}%
+\contentsline {paragraph}{Experimental Testing of Control-Centric Interfaces}{74}{section*.70}%
+\contentsline {paragraph}{Mixed-Methods Exploration of User Segments}{74}{section*.71}%
+\contentsline {paragraph}{Investigation of Incentive Structures}{74}{section*.72}%
+\contentsline {paragraph}{Cross-Cultural Comparative Analysis}{74}{section*.73}%
+\contentsline {paragraph}{Methodological Improvements}{75}{section*.74}%
+\contentsline {section}{\numberline {7}Conclusion}{75}{section.7}%
+\contentsline {section}{References}{80}{section*.75}%
+\contentsline {section}{\numberline {A}Appendix}{81}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}AI Use Declaration}{81}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}GitHub Repository}{81}{subsection.A.2}%
