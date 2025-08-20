@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber MAIN"] 1755680620.87599 "MAIN.bcf" "MAIN.bbl" "MAIN" 1755681559.56525 0
-  "MAIN.bcf" 1755681559 115320 5fee65184f588979ec54f751b05046de "pdflatex"
+["biber MAIN"] 1755680620.87599 "MAIN.bcf" "MAIN.bbl" "MAIN" 1755690591.96514 0
+  "MAIN.bcf" 1755690591 115320 5fee65184f588979ec54f751b05046de "pdflatex"
   "bib/references.bib" 1755517627 15775 1a3d5fff1e49362e19a2f7612f3d7544 ""
   (generated)
   "MAIN.bbl"
   "MAIN.blg"
   (rewritten before read)
-["pdflatex"] 1755681554.23082 "c:/Users/URHU/Documents/Master_thesis_MscM-UH/MAIN.tex" "MAIN.pdf" "MAIN" 1755681559.56652 0
+["pdflatex"] 1755690586.02221 "c:/Users/URHU/Documents/Master_thesis_MscM-UH/MAIN.tex" "MAIN.pdf" "MAIN" 1755690591.96585 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/symbol/psyr.tfm" 1136768654 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/psyro.tfm" 1136768654 1544 23a042a74981a3e4b6ce2e350e390409 ""
@@ -265,21 +265,21 @@
   "C:/Users/URHU/AppData/Roaming/MiKTeX/tex/latex/setspace/setspace.sty" 1670403145 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "C:/Users/URHU/AppData/Roaming/MiKTeX/tex/latex/tablefootnote/tablefootnote.sty" 1390757566 16781 8c11f7c6d0bd619ff2175f2f43357032 ""
   "C:/Users/URHU/AppData/Roaming/MiKTeX/tex/latex/xifthen/xifthen.sty" 1448274436 5689 1bfa68243e89a54479e7d0580773c57e ""
-  "MAIN.aux" 1755681559 14355 020367cf400c6f945c4ea7d85f6db6b3 "pdflatex"
+  "MAIN.aux" 1755690591 14355 419db988d837aaf60bed2a964e2ca229 "pdflatex"
   "MAIN.bbl" 1755680625 87209 e491f1df97cbfb93bb9e84ffcce4f396 "biber MAIN"
-  "MAIN.lof" 1755681559 4202 9b497b55c5daa12291c1336525902f48 "pdflatex"
-  "MAIN.lot" 1755681559 784 7c4247bfe8044ab010e80d66db4f3e03 "pdflatex"
-  "MAIN.out" 1755681559 21111 9d0289ced03f49b9b2a721f525c4d205 "pdflatex"
-  "MAIN.run.xml" 1755681559 2315 9815beedccb62a6af9e4a7153dcd9340 "pdflatex"
+  "MAIN.lof" 1755690591 4202 2f335baf066f307c295934208b25c72f "pdflatex"
+  "MAIN.lot" 1755690591 784 3ea1df63b51d233d014c029fea52fff6 "pdflatex"
+  "MAIN.out" 1755690591 21111 49d931bc5d3618f44d1851f0602aee1b "pdflatex"
+  "MAIN.run.xml" 1755690591 2315 9815beedccb62a6af9e4a7153dcd9340 "pdflatex"
   "MAIN.tex" 1755677147 7890 c836a7f3b471cf6eea0f9e9a72d60057 ""
-  "MAIN.toc" 1755681559 11934 61f05ac8b933c2c9fa290e0ecccb77d9 "pdflatex"
-  "abbreviations.aux" 1755681556 4007 4630d3b64778bd2066f9eae7bde1e456 "pdflatex"
+  "MAIN.toc" 1755690591 11847 cb5f6f4fd837695b259cafc7cf11cae1 "pdflatex"
+  "abbreviations.aux" 1755690588 4007 4630d3b64778bd2066f9eae7bde1e456 "pdflatex"
   "abbreviations.tex" 1755604592 713 ba9ea1408e314d1ba5fc41e4ff388b81 ""
-  "appendix.aux" 1755681559 4539 36021df1b8192bbd66a00799a51c9919 "pdflatex"
+  "appendix.aux" 1755690591 4539 2c049a66c1da00c8e5ccce241a5f2a43 "pdflatex"
   "appendix.tex" 1754567338 1957 b0bb4ff08e62dbfa6b9d087b4d66c0e9 ""
   "c:/Users/URHU/Documents/Master_thesis_MscM-UH/MAIN.tex" 1755677147 7890 c836a7f3b471cf6eea0f9e9a72d60057 ""
-  "chapters/chapter1.aux" 1755681558 30776 291c47019bd07d85c46db5415d5ec9c4 "pdflatex"
-  "chapters/chapter1.tex" 1755681544 233413 c3fa9c9371efdf0ccea782d7300d7d62 ""
+  "chapters/chapter1.aux" 1755690591 30648 1e52a836175af1e803f872b04f50c504 "pdflatex"
+  "chapters/chapter1.tex" 1755690304 233355 655fb8ebc76cbc1c97bb46772910c073 ""
   "figures/img/Pew_comparison_plots/compare_10_vs_PPREAD.png" 1753082364 33088 9da38fd856182a016ffb3126a2396e15 ""
   "figures/img/Pew_comparison_plots/compare_11_vs_AI_HEARD.png" 1753082364 31985 0362b52a3c8ca8d5dcce7de97434b70e ""
   "figures/img/Pew_comparison_plots/compare_1_vs_SMLEAD.png" 1753082364 40284 2f33fa405eaef172b569787a77269c88 ""

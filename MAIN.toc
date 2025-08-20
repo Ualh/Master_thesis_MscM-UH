@@ -76,50 +76,49 @@
 \contentsline {subsubsection}{\numberline {5.6.1}Awareness of Decentralized Technologies}{54}{subsubsection.5.6.1}%
 \contentsline {subsubsection}{\numberline {5.6.2}Trust in New Technologies}{54}{subsubsection.5.6.2}%
 \contentsline {subsubsection}{\numberline {5.6.3}Trust in New Technologies: Survey vs. Pew}{55}{subsubsection.5.6.3}%
-\contentsline {paragraph}{Trust in New Technologies: Survey vs. Pew}{55}{section*.44}%
 \contentsline {subsubsection}{\numberline {5.6.4}Willingness to Pay or Invest}{56}{subsubsection.5.6.4}%
 \contentsline {subsubsection}{\numberline {5.6.5}Expectations for Mainstream Adoption}{57}{subsubsection.5.6.5}%
 \contentsline {subsubsection}{\numberline {5.6.6}Barriers to Adoption}{58}{subsubsection.5.6.6}%
 \contentsline {subsection}{\numberline {5.7}Advanced Analysis}{59}{subsection.5.7}%
 \contentsline {subsubsection}{\numberline {5.7.1}Factor Analysis and Principal Component Analysis}{59}{subsubsection.5.7.1}%
-\contentsline {paragraph}{Factor Extraction and Loadings}{59}{section*.49}%
-\contentsline {paragraph}{Principal Component Analysis and Dimensional Independence}{60}{figure.caption.54}%
+\contentsline {paragraph}{Factor Extraction and Loadings}{59}{section*.48}%
+\contentsline {paragraph}{Principal Component Analysis and Dimensional Independence}{60}{figure.caption.53}%
 \contentsline {subsubsection}{\numberline {5.7.2}Structural Equation Modeling}{62}{subsubsection.5.7.2}%
-\contentsline {paragraph}{Empirical Findings: Structural Model}{62}{section*.56}%
+\contentsline {paragraph}{Empirical Findings: Structural Model}{62}{section*.55}%
 \contentsline {section}{\numberline {6}Discussion}{63}{section.6}%
 \contentsline {subsection}{\numberline {6.1}Synthesizing the Empirical Findings: A Portrait of the Contemporary Wearable User}{63}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}Answering the Research Questions}{64}{subsection.6.2}%
 \contentsline {subsubsection}{\numberline {6.2.1}Addressing the Primary Research Question: Evaluating Decentralized Solutions}{64}{subsubsection.6.2.1}%
-\contentsline {paragraph}{Privacy Concern}{64}{section*.57}%
-\contentsline {paragraph}{Perceived Control Over Data}{64}{section*.58}%
-\contentsline {paragraph}{Willingness to Adopt}{65}{section*.59}%
+\contentsline {paragraph}{Privacy Concern}{64}{section*.56}%
+\contentsline {paragraph}{Perceived Control Over Data}{64}{section*.57}%
+\contentsline {paragraph}{Willingness to Adopt}{65}{section*.58}%
 \contentsline {subsubsection}{\numberline {6.2.2}Addressing SRQ1: Centralized vs. Decentralized Models - A Comparative Analysis}{65}{subsubsection.6.2.2}%
-\contentsline {paragraph}{Trust in Centralized Systems}{65}{section*.60}%
-\contentsline {paragraph}{Perceived Control Over Data}{65}{section*.61}%
-\contentsline {paragraph}{Desired Control Over Data}{66}{section*.62}%
-\contentsline {paragraph}{Willingness to Adopt}{66}{section*.63}%
+\contentsline {paragraph}{Trust in Centralized Systems}{65}{section*.59}%
+\contentsline {paragraph}{Perceived Control Over Data}{65}{section*.60}%
+\contentsline {paragraph}{Desired Control Over Data}{66}{section*.61}%
+\contentsline {paragraph}{Willingness to Adopt}{66}{section*.62}%
 \contentsline {subsubsection}{\numberline {6.2.3}Addressing SRQ2: Attitudinal and Structural Drivers and Barriers of Adoption}{66}{subsubsection.6.2.3}%
-\contentsline {paragraph}{Drivers for Adoption}{66}{section*.64}%
-\contentsline {paragraph}{Barriers to Adoption}{67}{section*.65}%
+\contentsline {paragraph}{Drivers for Adoption}{66}{section*.63}%
+\contentsline {paragraph}{Barriers to Adoption}{67}{section*.64}%
 \contentsline {subsubsection}{\numberline {6.2.4}Addressing SRQ3: The Role of Demographic and Behavioral Segmentation}{67}{subsubsection.6.2.4}%
 \contentsline {subsubsection}{\numberline {6.2.5}Addressing SRQ4: Privacy Paradox and Attitudinal Discrepancies}{68}{subsubsection.6.2.5}%
-\contentsline {paragraph}{Privacy Policy Engagement and the Privacy Paradox}{68}{section*.66}%
-\contentsline {paragraph}{Willingness to Share Data}{68}{section*.67}%
-\contentsline {paragraph}{Health Privacy Tradeoff}{69}{section*.68}%
+\contentsline {paragraph}{Privacy Policy Engagement and the Privacy Paradox}{68}{section*.65}%
+\contentsline {paragraph}{Willingness to Share Data}{68}{section*.66}%
+\contentsline {paragraph}{Health Privacy Tradeoff}{69}{section*.67}%
 \contentsline {subsection}{\numberline {6.3}Broader Implications of the Findings}{69}{subsection.6.3}%
 \contentsline {subsubsection}{\numberline {6.3.1}Theoretical Implications}{69}{subsubsection.6.3.1}%
 \contentsline {subsubsection}{\numberline {6.3.2}Translating Research into Business Strategy}{72}{subsubsection.6.3.2}%
 \contentsline {subsection}{\numberline {6.4}Limitations and Future Research Directions}{72}{subsection.6.4}%
 \contentsline {subsubsection}{\numberline {6.4.1}Limitations of the Current Study}{72}{subsubsection.6.4.1}%
 \contentsline {subsubsection}{\numberline {6.4.2}Recommendations for Future Research}{73}{subsubsection.6.4.2}%
-\contentsline {paragraph}{Longitudinal Studies to Track Evolving Attitudes}{73}{section*.69}%
-\contentsline {paragraph}{Experimental Testing of Control-Centric Interfaces}{74}{section*.70}%
-\contentsline {paragraph}{Mixed-Methods Exploration of User Segments}{74}{section*.71}%
-\contentsline {paragraph}{Investigation of Incentive Structures}{74}{section*.72}%
-\contentsline {paragraph}{Cross-Cultural Comparative Analysis}{74}{section*.73}%
-\contentsline {paragraph}{Methodological Improvements}{75}{section*.74}%
+\contentsline {paragraph}{Longitudinal Studies to Track Evolving Attitudes}{73}{section*.68}%
+\contentsline {paragraph}{Experimental Testing of Control-Centric Interfaces}{74}{section*.69}%
+\contentsline {paragraph}{Mixed-Methods Exploration of User Segments}{74}{section*.70}%
+\contentsline {paragraph}{Investigation of Incentive Structures}{74}{section*.71}%
+\contentsline {paragraph}{Cross-Cultural Comparative Analysis}{74}{section*.72}%
+\contentsline {paragraph}{Methodological Improvements}{75}{section*.73}%
 \contentsline {section}{\numberline {7}Conclusion}{75}{section.7}%
-\contentsline {section}{References}{80}{section*.75}%
+\contentsline {section}{References}{80}{section*.74}%
 \contentsline {section}{\numberline {A}Appendix}{81}{appendix.A}%
 \contentsline {subsection}{\numberline {A.1}AI Use Declaration}{81}{subsection.A.1}%
 \contentsline {subsection}{\numberline {A.2}GitHub Repository}{81}{subsection.A.2}%
