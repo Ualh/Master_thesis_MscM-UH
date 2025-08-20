@@ -526,6 +526,9 @@ INPUT .\figures\img\derived_features_summary.png
 INPUT .\figures\img\derived_features_summary.png
 INPUT .\figures\img\derived_features_summary.png
 INPUT .\figures\img\derived_features_summary.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmbi7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmbi7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmbi8r.tfm
 INPUT .\figures\questions\Q21_wordcloud.png
 INPUT .\figures\questions\Q21_wordcloud.png
 INPUT .\figures\questions\Q21_wordcloud.png
@@ -754,6 +757,8 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\urw\symbol\usyr.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\urw\symbol\usyr.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmbi8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmbi8a.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmri8a.pfb
